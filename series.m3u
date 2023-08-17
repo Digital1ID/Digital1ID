@@ -1,32 +1,5 @@
 #EXTM3U x-url-tvg=""
 
-#EXTINF:-1 tvg-logo="", group-title="Adult",Barely Legal
-http://nl4.iptv.monster/play/4012/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Blue Hustler TV
-http://nl4.iptv.monster/play/107/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Brazzers TV Europe
-http://nl4.iptv.monster/play/76/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Extasy 4K
-http://nl4.iptv.monster/play/8845/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",French Lover
-http://nl4.iptv.monster/play/1490/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Hustler HD Europe
-http://nl4.iptv.monster/play/592/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Passion Adult
-http://nl4.iptv.monster/play/596/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Penthouse Gold HD
-http://nl4.iptv.monster/play/8848/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Penthouse HD
-http://nl4.iptv.monster/play/1497/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Playboy
-http://nl4.iptv.monster/play/242/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Redlight HD
-http://nl4.iptv.monster/play/594/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Satisfaction HD
-http://nl4.iptv.monster/play/598/634A6977FB9C8BC/video.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Adult",Русская Ночь
-http://nl4.iptv.monster/play/132/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Zombieverse - ซอมบี้เวิร์ส (2023) พากย์ไทย S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTReB3jQvg0c-urYmeIKGZHLZ_2Y1py4IZ9sQ&usqp=CAU" group-title="ซีรี่ย์ Netflix",Zombieverse - ซอมบี้เวิร์ส (2023) พากย์ไทย S01 E01
 http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/223236.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zombieverse - ซอมบี้เวิร์ส (2023) พากย์ไทย S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gcCtVpy5xhCxT6R8KNfnUhArm6i.jpg" group-title="ซีรี่ย์ Netflix",Zombieverse - ซอมบี้เวิร์ส (2023) พากย์ไทย S01 E02
