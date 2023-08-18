@@ -1,57 +1,32 @@
 #EXTM3U x-url-tvg=""
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcS50hUjeeQuAWbe5cXpa83d_atL1lSB00wPcQ&usqp=CAU", group-title="Adult",PlayBoy
+#EXTINF:-1 tvg-logo="", group-title="Adult",test
 #EXTVLCOPT:http-user-agent=ProPlayer
 http://xcui.10initiatived.uk:8880/live/DQ-NOVO500/ziqDdRRQ6c/36022.ts|Referer="http://xcui.10initiatived.uk/"
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcQCGRrpzdHmABWx6ZP8J4CMJTlZhM_DqZnJAg&usqp=CAU", group-title="Adult",Barely Legal
-#EXTVLCOPT:http-user-agent=ProPlayer
+#EXTINF:-1 tvg-logo="", group-title="Adult",Barely Legal
 http://nl4.iptv.monster/play/4012/634A6977FB9C8BC/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90cssoZ3HFvSp7mQEGi9wdxjuxfKieYkqXg&usqp=CAU", group-title="Adult",Blue Hustler TV
-#EXTVLCOPT:http-user-agent=ProPlayer
+#EXTINF:-1 tvg-logo="", group-title="Adult",Blue Hustler TV
 http://nl4.iptv.monster/play/107/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Brazzers TV Europe
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/76/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Extasy 4K
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/8845/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",French Lover
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/1490/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Hustler HD Europe
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/592/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Passion Adult
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/596/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Penthouse Gold HD
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/8848/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Penthouse HD
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/1497/634A6977FB9C8BC/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcSHOHA_3MeViO91GUrLWiEgkMGx1dbzGVi8ow&usqp=CAU", group-title="Adult",Playboy
-#EXTVLCOPT:http-user-agent=ProPlayer
+#EXTINF:-1 tvg-logo="", group-title="Adult",Playboy
 http://nl4.iptv.monster/play/242/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Redlight HD
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/594/634A6977FB9C8BC/video.m3u8
-
 #EXTINF:-1 tvg-logo="", group-title="Adult",Satisfaction HD
-#EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/598/634A6977FB9C8BC/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/07/10/28/r01.png", group-title="Adult",Russkaja Noch
-#EXTVLCOPT:http-user-agent=ProPlayer
+#EXTINF:-1 tvg-logo="", group-title="Adult",Русская Ночь
 http://nl4.iptv.monster/play/132/634A6977FB9C8BC/video.m3u8
