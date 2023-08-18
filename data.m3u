@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg=""
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcS50hUjeeQuAWbe5cXpa83d_atL1lSB00wPcQ&usqp=CAU" group-title="Adult",PlayBoy
 #EXTVLCOPT:http-user-agent=ProPlayer
