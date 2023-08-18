@@ -1,6 +1,6 @@
 #EXTM3U x-url-tvg=""
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcRTJHI1xRwGODxNqMTirTGKqcFXXAQNp07mlQ&usqp=CAU", group-title="Adult",PlayBoy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcS50hUjeeQuAWbe5cXpa83d_atL1lSB00wPcQ&usqp=CAU", group-title="Adult",PlayBoy
 #EXTVLCOPT:http-user-agent=ProPlayer
 http://xcui.10initiatived.uk:8880/live/DQ-NOVO500/ziqDdRRQ6c/36022.ts|Referer="http://xcui.10initiatived.uk/"
 
@@ -52,6 +52,6 @@ http://nl4.iptv.monster/play/594/634A6977FB9C8BC/video.m3u8
 #EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/598/634A6977FB9C8BC/video.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Adult",Русская Ночь
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/07/10/28/r01.png", group-title="Adult",Russkaja Noch
 #EXTVLCOPT:http-user-agent=ProPlayer
 http://nl4.iptv.monster/play/132/634A6977FB9C8BC/video.m3u8
