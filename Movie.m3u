@@ -1,5 +1,8 @@
 #EXTM3U x-url-tvg=""
 
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",A HAUNTING IN VENICE (2023) ฆาตกรรมหลอนแห่งนครเวนิส
+http://oneid.c1.biz/movie/index.php?url=https://hlsp2p.com/view/06bda1c9-bce3-57da-a6b3-8ac685acb2d0.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230921171314orL3v5KKRqFhwJYGkrZ3jmKEAgy.jpg",The Ghost Station อ๊กซู สถานีผีดุ (2023)
 https://m1free.inwstream.com:1936/movie3/The_Ghost_Station_2023/The_Ghost_Station_2023_th_1080.mp4?.m3u8
 
@@ -132,7 +135,12 @@ https://m1free.inwstream.com:1936/movie3/Sword_Art_Online_the_Movie_Progressive_
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230704042706uWzDZ7MDACrPm8xlPHQPKqF4TyT.jpg", Suzume (2022) การผนึกประตูของซุซุเมะ
 https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_thr_v1.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023.webp", Operation Fortune: Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
+https://m1free.inwstream.com:1936/movie3/Operation_Fortune_Ruse_de_Guerre_2023/Operation_Fortune_Ruse_de_Guerre_2023_thr_z1.mp4?.m3u8
+
+
 ############## MASTER ##############
+
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
 https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4?.m3u8
@@ -149,22 +157,40 @@ https://m1free.inwstream.com:1936/movie3/Attraction_2_Invasion_2020/Attraction_2
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Flash-2023.jpg", The Flash (2023) เดอะ แฟลช
 https://m1free.inwstream.com:1936/movie3/The_Flash_2023/The_Flash_2023_th_1080.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230519232949qwdqdwqd.jpg", Dungeons & Dragons: Honor Among Thieves (2023) ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร
+https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieves_2023/Dungeons_And_Dragons_Honor_Among_Thieves_2023_th_1080p.mp4?.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20220329174418death-on-the-nile-61d2f15b690ac.jpg",Death on the Nile ฆาตกรรมบนลำน้ำไนล์ (2022)
+https://m1free.inwstream.com:1936/movie3/Death_on_the_Nile_2022/Death_on_the_Nile_2022_th_2_0_1080p_F.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",Murder on the Orient Express ฆาตกรรมบนรถด่วนโอเรียนท์เอกซ์เพรส (2017)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Murder-on-the-Orient-Express-2017/Murder-on-the-Orient-Express-2017-th-1080p-fw.m4v/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20221127201237aqAPeeORk5zVarX2NGM8jgzthgx.jpg", Black Adam แบล็ก อดัม (2022)
 https://m1free.inwstream.com:1936/movie3/Black_Adam_2022/Black_Adam_2022_th_1080p_F.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20221013232744xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg", Blackout (2022) บรรยายไทย
 https://m1free.inwstream.com:1936/movie3/Blackout_2022/Blackout_2022_en_1080p.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230519232949qwdqdwqd.jpg", Dungeons & Dragons: Honor Among Thieves (2023) ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร
-https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieves_2023/Dungeons_And_Dragons_Honor_Among_Thieves_2023_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20210925093705free-guy-5fcc1aaddc71b.jpg",Free Guy ขอสักทีพี่จะเป็นฮีโร่ (2021)
+https://m1free.inwstream.com:1936/movie3/Free_Guy_2021/Free_Guy_2021_th_1080p_F.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023.webp", Operation Fortune: Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
-https://m1free.inwstream.com:1936/movie3/Operation_Fortune_Ruse_de_Guerre_2023/Operation_Fortune_Ruse_de_Guerre_2023_thr_z1.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20180704185630ready-player-one-5abf422a72873.jpg",Ready Player One สงครามเกมคนอัจฉริยะ (2018)
+https://m1free.inwstream.com:1936/movie3/Ready-Player-One-2018/Ready-Player-One-2018-TH-1080p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20190716111237alita-battle-angel-5c60dc092f55f.jpg",Alita: Battle Angel อลิตา แบทเทิล แองเจิ้ล (2019)
+https://m1free.inwstream.com:1936/movie3/Alita_Battle_Angel_2019/Alita_Battle_Angel_2019_TH_1080p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200415172521Pixels%20%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%A5%20(2015).jpg",Pixels พิกเซล (2015)
+https://m1free.inwstream.com:1936/movie2/Pixels%20(2015)/Pixels%20(2015)%20th%201080p%20fw.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
-
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200503133744Tron%20Legacy%20%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%20%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95%20(2010).jpg",Tron: Legacy ทรอน ล่าข้ามโลกอนาคต (2010)
+https://m1free.inwstream.com:1936/movie1/Tron-Legacy-2010/Tron-Legacy-2010-TH-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/202209301613088PsHogUfvjWPGdWAI5uslDhHDx7.jpg", Secret Headquarters (2022) กองบัญชาการลับ
 https://m1free.inwstream.com:1936/movie3/Secret_Headquarters_2022/Secret_Headquarters_2022_th_1080p_F.mp4?.m3u8
@@ -258,6 +284,12 @@ https://2i7.short.gy/movie/Fury.mp4
 
 ############## NETFLIX ##############
 
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/202309151751195FFpXoNpHdmx4hYEQOjtgotOH4b.jpg",Once Upon a Crime กาลครั้งหนึ่งกับคดีปริศนา (2023)
+https://m1free.inwstream.com:1936/movie3/Once_Upon_a_Crime_2023/Once_Upon_a_Crime_2023_th_1080.mp4?.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/2023081216510294EnCy0GRKEH5DuWDgApNGwiuqf.jpg",Heart of Stone ฮาร์ท ออฟ สโตน (2023)
 https://m1free.inwstream.com:1936/movie3/Heart_of_Stone_2023/Heart_of_Stone_2023_th_1080.mp4?.m3u8
 
@@ -318,11 +350,27 @@ https://m1free.inwstream.com:1936/movie3/Tin_And_Tina_2023/Tin_And_Tina_2023_th_
 
 ############## ASIA ##############
 
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230821013828yvQWnRN788OncACNlD2IQGT2NgS.jpg",Hidden Blade โค่นคมพยัคฆ์ (2023)
+https://m1free.inwstream.com:1936/movie3/Hidden_Blade_2023/Hidden_Blade_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/202309172202185kdutfC9BKpjw56brfvtZr6Lj4t.jpg",THE WANDERING EARTH 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ
+https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2_2023/The_Wandering_Earth_2_2023_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20190521173540the-wandering-earth-5cc8cdeec27b4.jpg",The Wandering Earth (2019) ปฏิบัติการฝ่าสุริยะ
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2019/The_Wandering_Earth_2019_TH_1080p_NF.m4v/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230728124908ulobyNR62zvI1cKUk1YJ9QwKGkb.jpg", The Assassin (2023) บรรยายไทย
 https://m1free.inwstream.com:1936/movie3/The_Assassin_2023/The_Assassin_2023_st_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230610064711vTLhg1QKcoCEX25pQR5AWZUWAqL.jpg", The Way of the Househusband: The Movie (2022) พ่อบ้านสุดเก๋าเดอะมูฟวี่
 https://m1free.inwstream.com:1936/movie3/The_Way_of_the_Househusband_The_Movie_2022/The_Way_of_the_Househusband_The_Movie_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/202308060937431cojtgA2CAj89kPlBXxN7XSTH5R.jpg",Remember (2022)
+https://m1free.inwstream.com:1936/movie3/Remember_2022/Remember_2022_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230806094052sMoPaIJ0dCOmvsv9hGqlPxvcFr0.jpg",Ghost Mansion โกสต์แมนชั่น (2021)
+https://m1free.inwstream.com:1936/movie3/Ghost_Mansion_2021/Ghost_Mansion_2021_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20221214200112tqHXCshqysM6DPnXeFIR74fNdKw.jpg", The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก
 https://m1free.inwstream.com:1936/movie3/The_Roundup_2022/The_Roundup_2022_th_1080p.mp4?.m3u8
@@ -332,6 +380,8 @@ https://m1free.inwstream.com:1936/movie3/Alienoid_2022/Alienoid_2022_kor_1080p.m
 
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20220924055859XCvGgTRg4DGN6wYP12KZchCpkS.jpg", The Witch : Part 2 The Other One (2022) แม่มดมือสังหาร 2
 https://m1free.inwstream.com:1936/movie3/The_Witch_Part_2_The_Other_One_2022/The_Witch_Part_2_The_Other_One_2022_kor_1080p_2.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20220924055859XCvGgTRg4DGN6wYP12KZchCpkS.jpg", The Witch : Part 1 The Subversion (2018) แม่มดมือสังหาร
+https://2i7.short.gy/movie/TheWitch.mp4
 
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/202112161035541629608968-e3-s1bbvoamvydo.jpg", Blackpink: The Movie แบล็กพิงก์ เดอะ มูฟวี่ (2021) บรรยายไทย
 https://m1free.inwstream.com:1936/movie3/BLACKPINK_The_Movie_2021/BLACKPINK_The_Movie_2021_KR_1080p.mp4?.m3u8
@@ -339,11 +389,11 @@ https://m1free.inwstream.com:1936/movie3/BLACKPINK_The_Movie_2021/BLACKPINK_The_
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230728115927csle64zkLObsdRoabreC6bBRxLI.jpg", Unstoppable (2018) บรรยายไทย
 https://m1free.inwstream.com:1936/movie3/Unstoppable_2018/Unstoppable_2018_st_1080_T.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20220924055859XCvGgTRg4DGN6wYP12KZchCpkS.jpg", The Witch : Part 1 The Subversion (2018) แม่มดมือสังหาร
-https://2i7.short.gy/movie/TheWitch.mp4
-
 
 ############## THAI ##############
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="",
+
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230804194238xaspbqQ6r43MPEpQWUwTYqALqOy.jpg",ขุนพันธ์ 3 Khun Pan 3 (2023)
 https://m1free.inwstream.com:1936/movie3/Khun_Pan_3_2023/Khun_Pan_3_2023_th_1080.mp4?.m3u8
