@@ -168,7 +168,7 @@ https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieve
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20220329174418death-on-the-nile-61d2f15b690ac.jpg",Death on the Nile ฆาตกรรมบนลำน้ำไนล์ (2022)
 https://m1free.inwstream.com:1936/movie3/Death_on_the_Nile_2022/Death_on_the_Nile_2022_th_2_0_1080p_F.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",Murder on the Orient Express ฆาตกรรมบนรถด่วนโอเรียนท์เอกซ์เพรส (2017)
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20180213090944murder-on-the-orient-express-5a0fa58795d0b.jpg",Murder on the Orient Express ฆาตกรรมบนรถด่วนโอเรียนท์เอกซ์เพรส (2017)
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Murder-on-the-Orient-Express-2017/Murder-on-the-Orient-Express-2017-th-1080p-fw.m4v/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20221127201237aqAPeeORk5zVarX2NGM8jgzthgx.jpg", Black Adam แบล็ก อดัม (2022)
@@ -356,7 +356,7 @@ https://m1free.inwstream.com:1936/movie3/Tin_And_Tina_2023/Tin_And_Tina_2023_th_
 https://m1free.inwstream.com:1936/movie3/Hidden_Blade_2023/Hidden_Blade_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/202309172202185kdutfC9BKpjw56brfvtZr6Lj4t.jpg",THE WANDERING EARTH 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ
-https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2_2023/The_Wandering_Earth_2_2023_th_1080.mp4/playlist.m3u8
+https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2_2023/The_Wandering_Earth_2_2023_th_1080.mp4?.m3u8
 #EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20190521173540the-wandering-earth-5cc8cdeec27b4.jpg",The Wandering Earth (2019) ปฏิบัติการฝ่าสุริยะ
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2019/The_Wandering_Earth_2019_TH_1080p_NF.m4v/playlist.m3u8
 
@@ -533,6 +533,8 @@ https://m1free.inwstream.com:1936/movie1/Insidious-Chapter-2-2013/Insidious-Chap
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200520141739Insidious%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%AA%20%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%20(2010).jpg", Insidious อินซิเดียส วิญญาณตามติด (2010)
 https://m1free.inwstream.com:1936/movie1/Insidious-2010/Insidious-2010-TH-1080p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/2022050622523793sSMqj9z8bmXzLM4HJfzbQEOhI.jpg",Spiral: From the Book of Saw เกม-ลอก อำมหิต (2021)
+https://m1free.inwstream.com:1936/movie3/Spiral_From_the_Book_of_Saw_2021/Spiral_From_the_Book_of_Saw_2021_th_5_1_1080p.mp4?.m3u8
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20180201163721saw-viii-5a545df5be4ce.jpg", Jigsaw เกมต่อตัดตาย (2017)
 https://2i7.short.gy/movie/Jigsaw+2017.m3u8
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114140313saw-3d-the-final-chapter-529180debefac.jpg", Saw VII: The Final Chapter เกม ตัด-ต่อ-ตาย 7 (2010)
