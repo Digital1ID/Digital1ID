@@ -135,10 +135,10 @@ https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_thr_v1.mp4?.m3u
 ############## MASTER ##############
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
-https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080_2ch.mp4?.m3u8
+https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728134002gPbM0MK8CP8A174rmUwGsADNYKD.jpg", Transformers: Rise of the Beasts (2023) ทรานส์ฟอร์เมอร์ส: กำเนิดจักรกลอสูร
-https://m1free.inwstream.com:1936/movie3/Transformers_Rise_of_the_Beasts_2023/Transformers_Rise_of_the_Beasts_2023_th_1080_2ch.mp4?.m3u8
+https://m1free.inwstream.com:1936/movie3/Transformers_Rise_of_the_Beasts_2023/Transformers_Rise_of_the_Beasts_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/202307281233109dTO2RygcDT0cQkawABw4QkDegN.jpg", SHIN KAMEN RIDER (2023) ชิน•มาสค์ไรเดอร์
 https://m1free.inwstream.com:1936/movie3/Shin_Kamen_Rider_2023/Shin_Kamen_Rider_2023_th_1080.mp4?.m3u8
@@ -147,7 +147,7 @@ https://m1free.inwstream.com:1936/movie3/Shin_Kamen_Rider_2023/Shin_Kamen_Rider_
 https://m1free.inwstream.com:1936/movie3/Attraction_2_Invasion_2020/Attraction_2_Invasion_2020_th_1080_TH_Ver.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Flash-2023.jpg", The Flash (2023) เดอะ แฟลช
-https://m1free.inwstream.com:1936/movie3/The_Flash_2023/The_Flash_2023_th_1080_2ch.mp4?.m3u8
+https://m1free.inwstream.com:1936/movie3/The_Flash_2023/The_Flash_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20221127201237aqAPeeORk5zVarX2NGM8jgzthgx.jpg", Black Adam แบล็ก อดัม (2022)
 https://m1free.inwstream.com:1936/movie3/Black_Adam_2022/Black_Adam_2022_th_1080p_F.mp4?.m3u8
@@ -161,6 +161,9 @@ https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieve
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023.webp", Operation Fortune: Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
 https://m1free.inwstream.com:1936/movie3/Operation_Fortune_Ruse_de_Guerre_2023/Operation_Fortune_Ruse_de_Guerre_2023_thr_z1.mp4?.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
 
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/202209301613088PsHogUfvjWPGdWAI5uslDhHDx7.jpg", Secret Headquarters (2022) กองบัญชาการลับ
@@ -192,6 +195,21 @@ https://2i7.short.gy/movie/Attraction-2017-th-1080p-fw.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200423132349Edge%20of%20Tomorrow%20%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%20(2014).jpg", Edge of Tomorrow (2014) ซูเปอร์นักรบดับทัพอสูร
 https://m1free.inwstream.com:1936/movie2/Edge-of-Tomorrow-2014/Edge-of-Tomorrow-2014-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200516154315Battle%20Los%20Angeles%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%20(2011).jpg",Battle Los Angeles วันยึดโลก (2011)
+https://m1free.inwstream.com:1936/movie1/Battle-Los-Angeles-2011/Battle-Los-Angeles-2011-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/2018050121235712-Strong-2018-12-%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.jpg",12 Strong 12 ตายไม่เป็น (2018)
+https://m1free.inwstream.com:1936/movie3/12-Strong-2018/12-Strong-2018-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20181101075336we-were-soldiers-5998b220b3f34.jpg",We Were Soldiers เรียกข้าว่าวีรบุรุษ (2002)
+https://m1free.inwstream.com:1936/movie3/We-Were-Soldiers-2002/We-Were-Soldiers-2002-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/01/Danger-Close-The-Battle-of-Long-Tan-2019.jpg",Danger Close: The Battle of Long Tan สมรภูมิรบที่ลองเทียน (2019)
+https://m1free.inwstream.com:1936/movie3/Danger_Close_The_Battle_of_Long_Tan_2019/Danger_Close_The_Battle_of_Long_Tan_2019_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200422143231Tears%20of%20the%20Sun%20%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC%20(2003).jpg",Tears of the Sun ฝ่ายุทธการสุริยะทมิฬ (2003)
+https://m1free.inwstream.com:1936/movie1/Tears-of-the-Sun-2003/Tears-of-the-Sun-2003-th-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20210508172006hPkqY2EMqWUnFEoedukilIUieVG.jpg", The Outpost (2019) ผ่ายุทธภูมิล้อมตาย
 https://m1free.inwstream.com:1936/movie3/The_Outpost_2020/The_Outpost_2020_th_1080p_T5.mp4?.m3u8
@@ -359,9 +377,6 @@ https://m1free.inwstream.com:1936/movie3/Inhuman_Kiss_The_Last_Breath_2023/Inhum
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230526195523sXGb1io0v7TQIa5ZrZACYN954TA.jpg", ทิดน้อย (2023) Tid Noi: More Than True Love
 https://m1free.inwstream.com:1936/movie3/Tid_Noi_More_Than_True_Love_2023/Tid_Noi_More_Than_True_Love_2023_th_1080p.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200126144322King%20Naresuan%206%20%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%20%E0%B8%A0%E0%B8%B2%E0%B8%84%206%20%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B8%B2%20(%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%88%E0%B8%9A).jpg", ตำนานสมเด็จพระนเรศวรมหาราช ภาค 6 อวสานหงสา ภาคจบ
-https://m1free.inwstream.com:1936/movie2/King%20Naresuan%206_2015/King%20Naresuan%206%202015%20th%20480p_fw.mp4?.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ปฏิบัติการกู้หวย (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4I5zUfVszl6vGpTfMo7ue8TgU.jpg" group-title="หนังไทย",ปฏิบัติการกู้หวย (2022)
 http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/196998.mp4
 
@@ -382,28 +397,34 @@ http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/201844.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/2022061210333549a4e8c0-e710-11ec-b4b5-31553744f6ca_webp_original.jpg" group-title="หนังไทย", ไทบ้านเดอะซีรีส์ : หมอปลาวาฬ (2022)
 https://m1free.inwstream.com:1936/movie3/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022_th_1080p_FF.mp4?.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200423151656unnamed.jpg" group-title="หนังไทย", ไทบ้าน x BNK48 จากใจผู้สาวคนนี้ (2020)
 https://m1free.inwstream.com:1936/movie3/Thibaan_X_BNK48_2020/Thibaan_X_BNK48_2020_TH_1080p_NF.mp4?.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20181222192900121321.jpg" group-title="หนังไทย", ผู้บ่าวไทบ้าน 3 หมาน แอนด์ เดอะ คำผาน Poo-Baow-Tai-Ban 3 (2018)
 https://m1free.inwstream.com:1936/movie3/Poo-Baow-Tai-Ban-3-2018/Poo-Baow-Tai-Ban-3-2018-th-1080p.mp4?.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/201905242342151.jpg" group-title="หนังไทย", ไทบ้านเดอะซีรีส์ 2.2 Thi-Baan The Series 2.2 (2018)
 https://2i7.short.gy/movie/Thi_Baan_The_Series_2_2_th_1080p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20180808103746thumb_2208.jpg" group-title="หนังไทย", ไทบ้าน เดอะซีรี่ส์ 2.1 Thi-Baan The Series 2.1 (2018)
 https://2i7.short.gy/movie/Thi-Baan-The-Series-2-1-2018-th-480p-HQ-FW.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200128144338%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%20ThaiBan%20The%20Series%20(2017).jpg" group-title="หนังไทย", ไทบ้านเดอะซีรีส์ ThaiBan The Series (2017)
 https://m1free.inwstream.com:1936/movie3/Thai-Ban-The-Series-2017/Thai-Ban-The-Series-2017-TH-480p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200126144322King%20Naresuan%206%20%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%20%E0%B8%A0%E0%B8%B2%E0%B8%84%206%20%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B8%B2%20(%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%88%E0%B8%9A).jpg",King Naresuan 6 (2015) ตำนานสมเด็จพระนเรศวรมหาราช ๖ อวสานหงสา
+https://m1free.inwstream.com:1936/movie2/King%20Naresuan%206_2015/King%20Naresuan%206%202015%20th%20480p_fw.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200125103751King%20Naresuan%205%20%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%20%E0%B8%A0%E0%B8%B2%E0%B8%84%205.jpg",King Naresuan 5 (2014) ตำนานสมเด็จพระนเรศวรมหาราช ๕ ยุทธหัตถี
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie2/king-naresuan-5/king-naresuan-5-th-720p-fwtv.m4v/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/RAopeVV8SsTn54y9IlJ.jpg",King Naresuan 4 (2011) ตำนานสมเด็จพระนเรศวรมหาราช ๔ ศึกนันทบุเรง
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-4-th-1080p-fwtv.m4v/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/5JnIBBWDsMgRjgvrrlJ.jpg",King Naresuan 3 (2011) ตำนานสมเด็จพระนเรศวรมหาราช ๓ ยุทธนาวี
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-3-th-1080p-fwtv.m4v/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/S4zoDWGoNYPvSyn9BlR.jpg",King Naresuan 2 (2007) ตำนานสมเด็จพระนเรศวรมหาราช ๒ ประกาศอิสระภาพ
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-2-th-1080p-fwtv.m4v/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/27VkzWgTdUrKhcxGB1O.jpg",King Naresuan 1 (2007) ตำนานสมเด็จพระนเรศวรมหาราช ๑ องค์ประกันหงสา
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-1-th-1080p-fwtv.m4v/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="แหยม ยโสธร (2013)" tvg-logo="https://img.inwiptv.net/postor/20200114160416Hello%20Yasothorn%20%E0%B9%81%E0%B8%AB%E0%B8%A2%E0%B8%A1%20%E0%B8%A2%E0%B9%82%E0%B8%AA%E0%B8%98%E0%B8%A3%20[%201-3%20].jpg" group-title="หนังไทย", แหยม ยโสธร 3 (2013)
 https://2i7.short.gy/movie/hello-yasothorn-3-th-720p-fwtv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="แหยม ยโสธร (2009)" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcS1aDF4dddJn3tY2k9qBVpNq98M1RWu1OeS5VKDQrexIOm3nv-QRIzvjCU&s=10" group-title="หนังไทย", แหยม ยโสธร 2 (2009)
 https://2i7.short.gy/movie/hello-yasothorn-2-th-1080p-fwtv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="แหยม ยโสธร (2005)" tvg-logo="https://upload.wikimedia.org/wikipedia/th/6/62/Yamyasothon.jpg" group-title="หนังไทย", แหยม ยโสธร 1 (2005)
 https://2i7.short.gy/movie/hello-yasothorn-1-th-1080p-fwtv.m3u8
 
@@ -537,9 +558,23 @@ https://m1free.inwstream.com:1936/movie3/Sword-Art-Online-The-Movie-Ordinal-Scal
 
 
 
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20230728134002gPbM0MK8CP8A174rmUwGsADNYKD.jpg", Transformers: Rise of the Beasts (2023) ทรานส์ฟอร์เมอร์ส: กำเนิดจักรกลอสูร
+https://m1free.inwstream.com:1936/movie3/Transformers_Rise_of_the_Beasts_2023/Transformers_Rise_of_the_Beasts_2023_th_1080.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20190324111737bumblebee-5c47a9d79834d.jpg",Bumblebee บัมเบิ้ลบี (2018)
+https://m1free.inwstream.com:1936/movie3/Bumblebee-2018/Bumblebee-2018-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20171005092324thumb_1744.jpg",Transformers: The Last Knight ทรานส์ฟอร์เมอร์ส 5: อัศวินรุ่นสุดท้าย (2017)
+https://m1free.inwstream.com:1936/movie3/Transformers-The-Last-Knight-2017/Transformers-The-Last-Knight-2017-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200318175014transformers-age-of-extinction-53750f939bf43.jpg",Transformers: Age of Extinction (2014) ทรานส์ฟอร์เมอร์ส 4: มหาวิบัติยุคสูญพันธุ์
+https://m1free.inwstream.com:1936/movie2/Transformers-Age-of-Extinction-2014/Transformers-Age-of-Extinction-2014-th_1080p_fw.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200318174730Transformers%203%20Dark%20of%20the%20Moon%20(2011)%20%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%20%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84%20%E0%B8%AD%E0%B8%AD%E0%B8%9F%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B8%A1%E0%B8%B9%E0%B8%99.jpg",Transformers 3 Dark of the Moon (2011) ทรานส์ฟอร์เมอร์ส ดาร์ค ออฟ เดอะ มูน
+https://m1free.inwstream.com:1936/movie2/Transformers-2007-2011/Transformers-Dark-of-the-Moon-2011-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200318175847Transformers%202%20Revenge%20of%20the%20Fallen%20(2009)%20%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.jpg",Transformers 2 Revenge of the Fallen (2009) ทรานฟอร์เมอร์ส มหาสงครามล้างแค้น
+https://m1free.inwstream.com:1936/movie2/Transformers-2007-2011/Transformers-Revenge-of-the-Fallen-2009-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200318180648Transformers%201%20%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.jpg",Transformers (2007) ทรานส์ฟอร์มเมอร์ส มหาวิบัติจักรกลสังหารถล่มจักรวาล
+https://m1free.inwstream.com:1936/movie2/Transformers-2007-2011/Transformers-2007-th-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
-https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080_2ch.mp4?.m3u8
+https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20211020142110bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="หนังภาคต่อ", Fast and Furious F9: The Fast Saga เร็ว..แรงทะลุนรก 9 (2021)
 https://m1free.inwstream.com:1936/movie3/Fast_and_Furious_F9_The_Fast_Saga_2021/Fast_and_Furious_F9_The_Fast_Saga_2021_th_1080p.mp4?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20191113070713fast--furious-presents-hobbs--shaw-5d08dc7011654.jpg" group-title="หนังภาคต่อ", Fast & Furious Presents: Hobbs & Shaw เร็ว...แรงทะลุนรก ฮ็อบส์ & ชอว์ (2019)
@@ -566,6 +601,8 @@ https://m1free.inwstream.com:1936/movie2/Jack-Reacher-Never-Go-Back-2016/Jack-Re
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200509180435Jack%20Reacher%20%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%20%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%20(2012).jpg", Jack Reacher (2012) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ
 https://m1free.inwstream.com:1936/movie1/Jack-Reacher-2012/Jack-Reacher-2012-TH-1080p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20230901121057vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick: Chapter 4 จอห์น วิค แรงกว่านรก 4 (2023)
+https://m1free.inwstream.com:1936/movie3/John_Wick_Chapter_4_2023/John_Wick_Chapter_4_2023_th_1080_2ch.mp4?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20190912063329john-wick-chapter-3--parabellum-5d640cbfa6ef8.jpg" group-title="หนังภาคต่อ", John Wick: Chapter 3 Parabellum (2019) จอห์น วิค แรงกว่านรก 3
 https://2i7.short.gy/movie/John_Wick_Chapter_3_Parabellum_2019_TH_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20170613222850john-wick-chapter-2-dvd-cover.jpg" group-title="หนังภาคต่อ", John Wick: Chapter 2 (2017) จอห์น วิค แรงกว่านรก 2
@@ -717,11 +754,12 @@ https://m1free.inwstream.com:1936/movie3/Punisher_War_Zone_2008/Punisher_War_Zon
 #EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20190815144849the-punisher-58b5b66aa06ac.jpg",The Punisher เดอะ พันนิชเชอร์ เพชฌฆาตมหากาฬ (2004)
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The_Punisher_2004/The_Punisher_2004_TH_1080p.m4v/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
-
-#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
-
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200416162628Fantastic%20Four%20%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%81%E0%B8%97%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%20%E0%B9%82%E0%B8%9F%E0%B8%A3%E0%B9%8C%20(2015).jpg",Fantastic Four แฟนแทสติก โฟร์ (2015)
+https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%20(2015)/Fantastic%20Four%20(2015)%20th%201080p%20fw.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200322232235Fantastic%20Four%202%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%20%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C(2007).jpg",Fantastic Four: Rise of the Silver Surfer สี่พลังคนกายสิทธิ์: กำเนิดซิลเวอร์ เซิรฟเฟอร์ (2007)
+https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%201-2/Fantastic%20Four%202%20(2007)%20th%201080p%20fw.mp4?.m3u8
 #EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200322233243Fantastic%20Four%201%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%20%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%84%20%E0%B9%82%E0%B8%9F%E0%B8%A3%E0%B9%8C(2005).jpg",Fantastic Four สี่พลังคนกายสิทธิ์ (2005)
+https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%201-2/Fantastic%20Four%201%20(2005)%20th%201080p%20fw.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
 
