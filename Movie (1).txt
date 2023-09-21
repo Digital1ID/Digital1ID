@@ -1,0 +1,639 @@
+#EXTM3U x-url-tvg=""
+
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan (2022) สายลับ แจ็ค ไรอัน S03 E01" group-title="ซีรี่ย์ Prime Video" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/JACK-RYAN-SEASON-3.jpg", Jack Ryan (2022) สายลับ แจ็ค ไรอัน S03 E01
+https://2i7.short.gy/series/JRyanS03E01
+
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan (2023) สายลับ แจ็ค ไรอัน S04 E01" group-title="ซีรี่ย์ Prime Video" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/JACK-RYAN-SEASON-4.jpg", Jack Ryan (2023) สายลับ แจ็ค ไรอัน S04 E01
+https://2i7.short.gy/series/JRyanS04E01
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Insidious5.jpg", INSIDIOUS: THE RED DOOR (2023) วิญญาณตามติด: ประตูผีผ่าน
+https://agr3.short.gy/movie/INSIDIOUS-red.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/The-Little-Mermaid-2023.jpg", THE LITTLE MERMAID (2023) เงือกน้อยผจญภัย
+https://2i7.short.gy/movie/THE+LITTLE+MERMAID+2023.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230722171214cascsacsac.jpg", Oppenheimer (2023) ออพเพนไฮเมอร์
+https://m1free.inwstream.com:1936/movie3/Oppenheimer_2023/Oppenheimer_2023_thr_v1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230714045851csacascasc.jpg", MISSION IMPOSSIBLE 7 DEAD RECKONING PART ONE (2023) มิชชั่น อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง
+https://m1free.inwstream.com:1936/movie3/Mission_Impossible_Dead_Reckoning_Part_One_2023/Mission_Impossible_Dead_Reckoning_Part_One_2023_thr_v1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/07/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-170x250.jpg", MISSION IMPOSSIBLE 7 DEAD RECKONING PART ONE (2023) มิชชั่น อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง
+http://rock.i234.me:8085/Movie3/Mission%20Impossible-Dead%20Reckoning%20Part%20One%20(2023)_GOLD%20CUP.mkv
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230712071527dsadsadsad.jpg", The Roundup: No Way Out (2023) บู๊ระห่ำล่าล้างนรก: ทุบนรกแตก
+https://m1free.inwstream.com:1936/movie3/The_Roundup_No_Way_Out_2023/The_Roundup_No_Way_Out_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="Born to Fly" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230710021455csacascas.jpg", Born to Fly (2023) ปฏิบัติการจ้าวเวหา
+https://m1free.inwstream.com:1936/movie3/Born_to_Fly_2023/Born_to_Fly_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230703025034cqwcwqcq.jpg", Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา
+https://m1free.inwstream.com:1936/movie3/Indiana_Jones_and_the_Dial_of_Destiny_2023/Indiana_Jones_and_the_Dial_of_Destiny_2023_thr_v1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230628013947%E0%B9%81%E0%B8%9F%E0%B8%AB%E0%B9%81%E0%B9%81%E0%B8%9F%E0%B8%AB%E0%B9%81%E0%B8%AB%E0%B8%9F%E0%B9%81%E0%B8%AB%E0%B8%9F%E0%B9%81.jpg", The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ
+https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2_2023/The_Wandering_Earth_2_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/Hypnotic-2023-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%9A%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99-170x250.jpg", HYPNOTIC (2023) จิตบงการปล้น
+http://rock.i234.me:8085/Movie3/Hypnotic.2023.1080p.AMZN.WEB-DL.DDP5.1.H264.THR_Mr.Captain.mkv
+
+##https://m1free.inwstream.com:1936/movie3/Hypnotic_2023/Hypnotic_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/04/The-Covenant-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-170x250.jpg", The Covenant (2023) เดอะ โคเวแนนท์
+http://m2.inwstream.com:1935/movie3/The_Covenant_2023/The_Covenant_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcSiKFuFVkB8Mhlk1l98YvnuiZhbJLutY67rNg&usqp=CAU", Kandahar (2023) กันดาฮาร์ ฝ่าสมรภูมิทรายเดือด
+http://rock.i234.me:8085/Movie3/Kandahar%20(2023)/(QHD)%20Kandahar%20(2023)/Kandahar%20(2023).mkv
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230628013151%E0%B8%9F%E0%B8%AB%E0%B8%81%E0%B8%81%E0%B9%84%E0%B9%86%E0%B8%81%E0%B9%86%E0%B9%84%E0%B8%81%E0%B9%84%E0%B9%86%E0%B8%81.jpg", Knights of the Zodiac (2023) เซนต์เซย์ย่า กำเนิดอัศวินจักรราศี
+https://m1free.inwstream.com:1936/movie3/Knights_of_the_Zodiac_2023/Knights_of_the_Zodiac_2023_st_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/Sisu-2022-%E0%B8%AA%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B9%89%E2%80%A6%E0%B9%80%E0%B8%92%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.jpg", SISU (2022) สิสู้…เฒ่ามหากาฬ
+https://m1free.inwstream.com:1936/movie3/Sisu_2022/Sisu_2022_st_1080p_T.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230610193159csacsac.jpg", Ride On (2023) ควบสู้ฟัด
+http://m2.inwstream.com:1935/movie3/Ride_On_2023/Ride_On_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230604175426asdasdsadasd.jpg", Spider-Man: Across the Spider-Verse (2023) สไปเดอร์-แมน: ผงาดข้ามจักรวาลแมงมุม
+https://m1free.inwstream.com:1936/movie3/Spider_Man_Across_the_Spider_Verse_2023/Spider_Man_Across_the_Spider_Verse_2023_thr_v1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/03/John-Wick-Chapter-4-2023-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99-%E0%B8%A7%E0%B8%B4%E0%B8%84-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-4-170x250.png", JohnWick Chapter 4 (2023)
+https://m1free.inwstream.com:1936/movie3/John_Wick_Chapter_4_2023/John_Wick_Chapter_4_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nanamovies.me/wp-content/uploads/2023/06/The-Boogeyman-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9A%E0%B8%B9%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%99.jpeg", THE BOOGEYMAN (2023) เดอะ บูกี้แมน
+https://m1free.inwstream.com:1936/movie3/The_Boogeyman_2023/The_Boogeyman_2023_thr_v1.mp4?.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-2022-%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%8B%E0%B8%B5%E0%B8%9F-%E0%B8%AA%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%82%E0%B8%8B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B9%82%E0%B8%A8%E0%B8%81.jpg", Sword Art Online the Movie: Progressive - Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก
+https://m1free.inwstream.com:1936/movie3/Sword_Art_Online_the_Movie_Progressive_Scherzo_of_Deep_Night_2022/Sword_Art_Online_the_Movie_Progressive_Scherzo_of_Deep_Night_2022_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230704042706uWzDZ7MDACrPm8xlPHQPKqF4TyT.jpg", Suzume (2022) การผนึกประตูของซุซุเมะ
+https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_thr_v1.mp4?.m3u8
+
+############## MASTER ##############
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTahL0CtAXYl4kQVhXys9kIk49Erpof9sei1Q&usqp=CAU", Guardians of the Galaxy Vol. 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
+http://rock.i234.me:8085/Movie3/Guardians.of.the.galaxy.vol.3.2023.IMAX.1080p.WEB-DL.DDP5.1.Atmos.x265_Mr.Captain@Siambit.mkv
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
+https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080_2ch.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728134002gPbM0MK8CP8A174rmUwGsADNYKD.jpg", Transformers: Rise of the Beasts (2023) ทรานส์ฟอร์เมอร์ส: กำเนิดจักรกลอสูร
+https://m1free.inwstream.com:1936/movie3/Transformers_Rise_of_the_Beasts_2023/Transformers_Rise_of_the_Beasts_2023_th_1080_2ch.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/202307281233109dTO2RygcDT0cQkawABw4QkDegN.jpg", SHIN KAMEN RIDER (2023) ชิน•มาสค์ไรเดอร์
+https://m1free.inwstream.com:1936/movie3/Shin_Kamen_Rider_2023/Shin_Kamen_Rider_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728114108eNkewJGOW44OznlnfXA8ewWPPmI.jpg", Attraction 2: Invasion (2020) มหาวิบัติเอเลี่ยนล้างโลก
+https://m1free.inwstream.com:1936/movie3/Attraction_2_Invasion_2020/Attraction_2_Invasion_2020_th_1080_TH_Ver.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Flash-2023.jpg", The Flash (2023) เดอะ แฟลช
+https://m1free.inwstream.com:1936/movie3/The_Flash_2023/The_Flash_2023_th_1080_2ch.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20221127201237aqAPeeORk5zVarX2NGM8jgzthgx.jpg", Black Adam แบล็ก อดัม (2022)
+https://m1free.inwstream.com:1936/movie3/Black_Adam_2022/Black_Adam_2022_th_1080p_F.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20221013232744xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg", Blackout (2022) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/Blackout_2022/Blackout_2022_en_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230519232949qwdqdwqd.jpg", Dungeons & Dragons: Honor Among Thieves (2023) ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร
+https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieves_2023/Dungeons_And_Dragons_Honor_Among_Thieves_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023.webp", Operation Fortune: Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
+https://m1free.inwstream.com:1936/movie3/Operation_Fortune_Ruse_de_Guerre_2023/Operation_Fortune_Ruse_de_Guerre_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/01/Plane-2023.webp", Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก
+https://m1free.inwstream.com:1936/movie3/Plane_2023/Plane_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/202209301613088PsHogUfvjWPGdWAI5uslDhHDx7.jpg", Secret Headquarters (2022) กองบัญชาการลับ
+https://m1free.inwstream.com:1936/movie3/Secret_Headquarters_2022/Secret_Headquarters_2022_th_1080p_F.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230123190836lQMJHnHxUyj8kJlC2YOKNuzuwMP.jpg", The Woman King (2022) มหาศึกวีรสตรีเหล็ก
+https://m1free.inwstream.com:1936/movie3/The_Woman_King_2022/The_Woman_King_2022_th_1080p_5.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20220404121043the-contractor-621485da8791a.jpg", The Contractor คนพิฆาตคอนแทรคเตอร์
+https://m1free.inwstream.com:1936/movie3/The_Contractor_2022/The_Contractor_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20181025190843132123123123132.jpg", The Darkest Minds (2018) ดาร์กเกสท์ มายด์ส จิตทมิฬ
+https://2i7.short.gy/movie/The-Darkest-Minds-2018-th-1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200506172751Jack%20Ryan%20Shadow%20Recruit%20%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%20%E0%B9%84%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%20%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2%20(2014).jpg", Jack Ryan: Shadow Recruit (2014) แจ็ค ไรอัน: สายลับไร้เงา
+https://m1free.inwstream.com:1936/movie2/Jack-Ryan-Shadow-Recruit-2014/Jack-Ryan-Shadow-Recruit-2014-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20210702214952lj9R6heQZ56MXGVOavm5Kwk09WY.jpg", The Tomorrow War (2021)
+https://m1free.inwstream.com:1936/movie3/The_Tomorrow_War_2021/The_Tomorrow_War_2021_en_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/07/Pain-Gain-2013-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%A7%E0%B8%A2.jpg", Pain & Gain (2013) ไม่เจ็บ ไม่รวย
+https://m1free.inwstream.com:1936/movie3/Pain-and-Gain-2013/Pain-and-Gain-2013-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20171008113348attraction-584eba4dd4886.jpg", Attraction (2017) มหาวิบัติเอเลี่ยนถล่มโลก
+https://2i7.short.gy/movie/Attraction-2017-th-1080p-fw.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200423132349Edge%20of%20Tomorrow%20%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%20(2014).jpg", Edge of Tomorrow (2014) ซูเปอร์นักรบดับทัพอสูร
+https://m1free.inwstream.com:1936/movie2/Edge-of-Tomorrow-2014/Edge-of-Tomorrow-2014-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20210508172006hPkqY2EMqWUnFEoedukilIUieVG.jpg", The Outpost (2019) ผ่ายุทธภูมิล้อมตาย
+https://m1free.inwstream.com:1936/movie3/The_Outpost_2020/The_Outpost_2020_th_1080p_T5.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200411162319American%20Sniper%20%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99%20%E0%B8%AA%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%20(2014).jpg", American Sniper (2014) อเมริกัน สไนเปอร์
+https://2i7.short.gy/movie/american_sniper_2014_th-1080p_fw.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/2020042216192313%20Hours%20The%20Secret%20Soldiers%20of%20Benghazi%2013%20%E0%B8%8A%E0%B8%A1.%20%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%8B%E0%B8%B5%20(2016).jpg", 13 Hours: The Secret Soldiers of Benghazi (2016) 13 ชม. ทหารลับแห่งเบนกาซี
+https://m1free.inwstream.com:1936/movie2/13-Hours-The-Secret-Soldiers-of-Benghazi-2016/13-Hours-The-Secret-Soldiers-of-Benghazi-2016-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/202003291038491917-5e32eccfe5ea5.jpg", 1917 (2019)
+https://m1free.inwstream.com:1936/movie3/1917_2019/1917_2019_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200220122023midway-5e453a428cc25.jpg", Midway (2019) อเมริกาถล่มญี่ปุ่น
+https://2i7.short.gy/movie/Midway.mp4
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20190815144524punisher-war-zone-5312abde856f0.jpg", Punisher 2 : War Zone พันนิชเชอร์ 2 : สงครามเพชฌฆาตมหากาฬ
+https://m1free.inwstream.com:1936/movie3/Punisher_War_Zone_2008/Punisher_War_Zone_2008_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20190604124838the-last-samurai-53292870cc56c.jpg", The Last Samurai (2003) มหาบุรุษซามูไร
+https://m1free.inwstream.com:1936/movie2/The-Last-Samurai-2003/The-Last-Samurai-2003-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20171113114301the-hurt-locker-531605d3ec127.jpg", The Hurt Locker (2008) หน่วยระห่ำปลดล็อคระเบิดโลก
+https://2i7.short.gy/movie/Hurt+Locker.mp4
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20171030084926inglourious-basterds-5217dcadabf42.jpg", Inglourious Basterds (2009) ยุทธการเดือดเชือดนาซี
+https://m1free.inwstream.com:1936/movie3/Inglourious-Basterds-2009/Inglourious-Basterds-2009-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200518142250Windtalkers%20%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%20%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%20(2002).jpg", Windtalkers (2002) วินด์ทอร์คเกอร์ส สมรภูมิมหากาฬโค้ดสะท้านนรก
+https://m1free.inwstream.com:1936/movie2/Windtalkers_2002/Windtalkers_2002_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200510150256U-571%20%E0%B8%AD%E0%B8%B9-571%20%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88%20(2000).jpg", U-571 (2000) อู-571 ดิ่งเด็ดขั้วมหาอำนาจ
+https://m1free.inwstream.com:1936/movie1/U-571-2000/U-571-2000-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200506153033Saving%20Private%20Ryan%20%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87%20%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%97%20%E0%B9%84%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%20%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%81%20(1998).jpg", Saving Private Ryan (1998) เซฟวิ่ง ไพรเวท ไรอัน ฝ่าสมรภูมินรก
+https://m1free.inwstream.com:1936/movie1/Saving-Private-Ryan-1998/Saving-Private-Ryan-1998-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200413170250Black%20Hawk%20Down%20%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC%20(2001).jpg", Black Hawk Down (2001) ยุทธการฝ่ารหัสทมิฬ
+https://m1free.inwstream.com:1936/movie2/Black%20Hawk%20Down%20(2001)/Black%20Hawk%20Down%20(2001)%20th%201080p%20fw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200413154022The%20Thin%20Red%20Line%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B8%97%E0%B8%B4%E0%B8%99%20%E0%B9%80%E0%B8%A3%E0%B8%94%20%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2%20(1998).jpg", The Thin Red Line (1998) เดอะ ทิน เรด ไลน์ ฝ่านรกยึดเส้นตาย
+https://m1free.inwstream.com:1936/movie2/The Thin Red Line (1998)/The Thin Red Line (1998) th 1080p fw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200413132457Enemy%20at%20the%20Gates%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81%20(2001).jpg", Enemy at the Gates (2001) กระสุนสังหารพลิกโลก
+https://m1free.inwstream.com:1936/movie2/Enemy%20At%20The%20Gates%20(2001)/Enemy%20At%20The%20Gates%20(2001)%20th%201080p%20fw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200409173047Fury%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%90%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%20(2014).jpg", Fury (2014) วันปฐพีเดือด
+https://2i7.short.gy/movie/Fury.mp4
+
+############## ASIA ##############
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230728124908ulobyNR62zvI1cKUk1YJ9QwKGkb.jpg", The Assassin (2023) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/The_Assassin_2023/The_Assassin_2023_st_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230610064711vTLhg1QKcoCEX25pQR5AWZUWAqL.jpg", The Way of the Househusband: The Movie (2022) พ่อบ้านสุดเก๋าเดอะมูฟวี่
+https://m1free.inwstream.com:1936/movie3/The_Way_of_the_Househusband_The_Movie_2022/The_Way_of_the_Househusband_The_Movie_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20221214200112tqHXCshqysM6DPnXeFIR74fNdKw.jpg", The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก
+https://m1free.inwstream.com:1936/movie3/The_Roundup_2022/The_Roundup_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20220922132916hPOFajv8ytZUq0fTurZMjKvi5o4.jpg", Alienoid (2022) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/Alienoid_2022/Alienoid_2022_kor_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20220924055859XCvGgTRg4DGN6wYP12KZchCpkS.jpg", The Witch : Part 2 The Other One (2022) แม่มดมือสังหาร 2
+https://m1free.inwstream.com:1936/movie3/The_Witch_Part_2_The_Other_One_2022/The_Witch_Part_2_The_Other_One_2022_kor_1080p_2.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/202112161035541629608968-e3-s1bbvoamvydo.jpg", Blackpink: The Movie แบล็กพิงก์ เดอะ มูฟวี่ (2021) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/BLACKPINK_The_Movie_2021/BLACKPINK_The_Movie_2021_KR_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20230728115927csle64zkLObsdRoabreC6bBRxLI.jpg", Unstoppable (2018) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/Unstoppable_2018/Unstoppable_2018_st_1080_T.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20220924055859XCvGgTRg4DGN6wYP12KZchCpkS.jpg", The Witch : Part 1 The Subversion (2018) แม่มดมือสังหาร
+https://2i7.short.gy/movie/TheWitch.mp4
+
+############## NETFLIX ##############
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230723143033hnzXoDaK346U4ByfvQenu2DZnTg.jpg", They Cloned Tyrone (2023) โคลนนิงลวง ลับ ล่อ
+https://m1free.inwstream.com:1936/movie3/They_Cloned_Tyrone_2023/They_Cloned_Tyrone_2023_th_1080_NF.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230716004845iTGBHdL12QEpLyRVlykDuiYxzAG.jpg", Bird Box: Barcelona (2023) มอง อย่าให้เห็น: บาร์เซโลนา
+https://m1free.inwstream.com:1936/movie3/Bird_Box_Barcelona_2023/Bird_Box_Barcelona_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/The-Out-Laws-2023.jpg", THE OUT LAWS (2023) พ่อตาแม่ยายนอกกฎหมาย
+http://rock.i234.me:8085/Movie3/2023.The%20Out-Laws_%20พ่อตาแม่ยายนอกกฎหมาย.mkv
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcS6fizNzdu8Tjdouj3avaO4QmsHRHpQNHC4mG7NewjcVlVdJWpA", Extraction 2 (2023) คนระห่ำภารกิจเดือด 2
+http://b1.inwstream.com:1935/FW_UHD/Extraction_2_2023/Extraction_2_2023_Bluray_1080p.mkv
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/05/Mothers-Day-2023-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%94.jpg", Mother’s Day (2023) วันนี้แม่ต้องโหด
+https://m1free.inwstream.com:1936/movie3/Mother_s_Day_2023/Mother_s_Day_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/202304021523115wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg", Murder Mystery 2 (2023) ปริศนาฮันนีมูนอลวน 2
+https://m1free.inwstream.com:1936/movie3/Murder_Mystery_2_2023/Murder_Mystery_2_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20220319120544images.jpg", Black Crab แบล็กแคร็บ (2022)
+https://m1free.inwstream.com:1936/movie3/Black_Crab_2022/Black_Crab_2022_TH_1080p_NF.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/202212251911391CHp8QQjGwqWaPZWjzcRidlt5Xs.jpg", Violent Night (2022) คืนเดือด
+https://m1free.inwstream.com:1936/movie3/Violent_Night_2022/Violent_Night_2022_thr_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTeFqDjMsmXAHsoKdCoW-Nt3YGC4QebWlSdTw&usqp=CAU", Extraction (2020) คนระห่ำภารกิจเดือด
+https://b1.inwstream.com:1936/FW_Blu-Ray/Extraction_2020_4K/Extraction_2020_4K_2160p_HDR.mkv?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20190615074048Murder_Mystery_Official_Poster.jpg", Murder Mystery (2019) ปริศนาฮันนีมูนอลวน
+https://m1free.inwstream.com:1936/movie3/Murder_Mystery_2019/Murder_Mystery_2019_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230529001910ubsnl8tEVI4C7dZQansuRp4z8bJ.jpg", Blood & Gold (2023) ทองเปื้อนเลือด
+https://m1free.inwstream.com:1936/movie3/Blood_And_Gold_2023/Blood_And_Gold_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230126173253gU4mmINWUF294Wzi8mqRvi6peMe.jpg", Narvik (2022) นาร์วิค
+https://m1free.inwstream.com:1936/movie3/Narvik_2022/Narvik_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230121223441xnAtWpSZCMdqgmIaLwsY9Ox17ik.jpg", Devotion (2022)
+https://m1free.inwstream.com:1936/movie3/Devotion_2022/Devotion_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20221029145243rFUDYHHDmN0SFMKsjfPTRxj38Tu.jpg", All Quiet on the Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง
+https://m1free.inwstream.com:1936/movie3/All_Quiet_on_the_Western_Front_2022/All_Quiet_on_the_Western_Front_2022_th_1080p_1.mp4?.m3u8
+
+############## NETFLIX สยองขวัญ ##############
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.nanamovies.me/wp-content/uploads/2023/06/Run-Rabbit-Run-2023.jpeg", RUN RABBIT RUN (2023)
+http://rock.i234.me:8085/Movie3/Run%20Rabbit%20Run%20(2023)/Run%20Rabbit%20Run%20(2023).mkv
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230529214921A9hPo5sI7HMyoG7MCjYakn638RV.jpg", Tin & Tina (2023)
+https://m1free.inwstream.com:1936/movie3/Tin_And_Tina_2023/Tin_And_Tina_2023_th_1080p.mp4?.m3u8
+
+
+############## THAI ##############
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Murderer-2023.jpg", THE MURDERER (2023) เมอร์เด้อเหรอ ฆาตกรรมอิหยังวะ
+https://2i7.short.gy/movie/THE+MURDERER+2023?.mp4
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230723141010oBB6Cspp1vCIwNIFGwvzi4PiL22.jpg", ปรากฏการณ์ (2023) Resemblance
+https://m1free.inwstream.com:1936/movie3/Resemblance_2023/Resemblance_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcSrrwWmO-22Rdn_Z1bugFtXkx7HNsX-F5DCoA&usqp=CAU", คฤหาสน์ผีปอบ (2023)
+https://2i7.short.gy/movie/poptrueid.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230608133244thumb_2643.jpg", อินดี้ลูกอิสาน (2019)
+https://m1free.inwstream.com:1936/movie3/Indie_Look_Esan_2019/Indie_Look_Esan_2019_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20190108215316151515.jpg", ขุนพันธ์ 2 (2018)
+https://2i7.short.gy/movie/Khun-Pun-2-2018-th-480p.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200128123124%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%20(2016).jpg", ขุนพันธ์ (2016)
+https://m1free.inwstream.com:1936/movie2/Khun-Pun-2559/Khun-Pun-2559-480p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/202307141929294xQGGBC2vpXiUX3xLX92q6c9Y4Y.jpg", ปลุกพยนต์ (2023) Pook Payon 18+
+https://m1free.inwstream.com:1936/movie3/Pook_Payon_2023/Pook_Payon_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230714193216tir2vwzZfgdBms3C0eYpSjDgQem.jpg", หุ่นพยนต์ (2023) Hoon Payon 20+
+https://m1free.inwstream.com:1936/movie3/Hoon_Payon_2023/Hoon_Payon_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230702041546Inhuman-Kiss-The-Last-Breath2022.jpg", แสงกระสือ 2 (2023) Inhuman Kiss: The Last Breath
+https://m1free.inwstream.com:1936/movie3/Inhuman_Kiss_The_Last_Breath_2023/Inhuman_Kiss_The_Last_Breath_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230526195523sXGb1io0v7TQIa5ZrZACYN954TA.jpg", ทิดน้อย (2023) Tid Noi: More Than True Love
+https://m1free.inwstream.com:1936/movie3/Tid_Noi_More_Than_True_Love_2023/Tid_Noi_More_Than_True_Love_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200126144322King%20Naresuan%206%20%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%20%E0%B8%A0%E0%B8%B2%E0%B8%84%206%20%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B8%B2%20(%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%88%E0%B8%9A).jpg", ตำนานสมเด็จพระนเรศวรมหาราช ภาค 6 อวสานหงสา ภาคจบ
+https://m1free.inwstream.com:1936/movie2/King%20Naresuan%206_2015/King%20Naresuan%206%202015%20th%20480p_fw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ปฏิบัติการกู้หวย (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4I5zUfVszl6vGpTfMo7ue8TgU.jpg" group-title="หนังไทย",ปฏิบัติการกู้หวย (2022)
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/196998.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20220706102846unnamed.jpg" group-title="หนังไทย", เร็วโหด..เหมือนโกรธเธอ Fast & Feel Love (2022)
+https://m1free.inwstream.com:1936/movie3/Fast_and_Feel_Love_2022/Fast_and_Feel_Love_2022_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ผู้บ่าวไทบ้าน อีสานจ้วด… Phu Bao Thai Bahn E-Saan Juad (2021)" tvg-logo="https://www.hooq-movie.com/wp-content/uploads/2022/02/ผู้บ่าวไทบ้าน-อีสานจ้วด...-Phu-Bao-Thai-Bahn-E-Saan-Juad-2021.jpg" group-title="หนังไทย",ผู้บ่าวไทบ้าน อีสานจ้วด… Phu Bao Thai Bahn E-Saan Juad (2021)
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/160599.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ซอมบี้ไทบ้าน E-San of the Dead (2022)" tvg-logo="https://www.hooq-movie.com/wp-content/uploads/2022/05/ซอมบี้ไทบ้าน-E-San-of-the-Dead-2022.jpg" group-title="หนังไทย",ซอมบี้ไทบ้าน E-San of the Dead (2022)
+https://m1free.inwstream.com:1936/movie3/E_SAN_OF_THE_DEAD_2022/E_SAN_OF_THE_DEAD_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OMG! รักจังวะ..ผิดจังหวะ OMG! Oh My Girl (2022)" tvg-logo="https://img.inwiptv.net/postor/2023021715504592ovIiJuChmWZReFUgtiRLD9t0m.jpg" group-title="หนังไทย",OMG! รักจังวะ..ผิดจังหวะ OMG! Oh My Girl (2022)
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/201857.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="คืนหมีฆ่า Night of the Killer Bears (2022)" tvg-logo="https://img.inwiptv.net/postor/20230420181005iJRP67qyUZsB2mPlmXXumpJPpxV.jpg" group-title="หนังไทย",คืนหมีฆ่า Night of the Killer Bears (2022)
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/201844.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/2022061210333549a4e8c0-e710-11ec-b4b5-31553744f6ca_webp_original.jpg" group-title="หนังไทย", ไทบ้านเดอะซีรีส์ : หมอปลาวาฬ (2022)
+https://m1free.inwstream.com:1936/movie3/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022_th_1080p_FF.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200423151656unnamed.jpg" group-title="หนังไทย", ไทบ้าน x BNK48 จากใจผู้สาวคนนี้ (2020)
+https://m1free.inwstream.com:1936/movie3/Thibaan_X_BNK48_2020/Thibaan_X_BNK48_2020_TH_1080p_NF.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20181222192900121321.jpg" group-title="หนังไทย", ผู้บ่าวไทบ้าน 3 หมาน แอนด์ เดอะ คำผาน Poo-Baow-Tai-Ban 3 (2018)
+https://m1free.inwstream.com:1936/movie3/Poo-Baow-Tai-Ban-3-2018/Poo-Baow-Tai-Ban-3-2018-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/201905242342151.jpg" group-title="หนังไทย", ไทบ้านเดอะซีรีส์ 2.2 Thi-Baan The Series 2.2 (2018)
+https://2i7.short.gy/movie/Thi_Baan_The_Series_2_2_th_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20180808103746thumb_2208.jpg" group-title="หนังไทย", ไทบ้าน เดอะซีรี่ส์ 2.1 Thi-Baan The Series 2.1 (2018)
+https://2i7.short.gy/movie/Thi-Baan-The-Series-2-1-2018-th-480p-HQ-FW.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200128144338%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%20ThaiBan%20The%20Series%20(2017).jpg" group-title="หนังไทย", ไทบ้านเดอะซีรีส์ ThaiBan The Series (2017)
+https://m1free.inwstream.com:1936/movie3/Thai-Ban-The-Series-2017/Thai-Ban-The-Series-2017-TH-480p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="แหยม ยโสธร (2013)" tvg-logo="https://img.inwiptv.net/postor/20200114160416Hello%20Yasothorn%20%E0%B9%81%E0%B8%AB%E0%B8%A2%E0%B8%A1%20%E0%B8%A2%E0%B9%82%E0%B8%AA%E0%B8%98%E0%B8%A3%20[%201-3%20].jpg" group-title="หนังไทย", แหยม ยโสธร 3 (2013)
+https://2i7.short.gy/movie/hello-yasothorn-3-th-720p-fwtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="แหยม ยโสธร (2009)" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcS1aDF4dddJn3tY2k9qBVpNq98M1RWu1OeS5VKDQrexIOm3nv-QRIzvjCU&s=10" group-title="หนังไทย", แหยม ยโสธร 2 (2009)
+https://2i7.short.gy/movie/hello-yasothorn-2-th-1080p-fwtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="แหยม ยโสธร (2005)" tvg-logo="https://upload.wikimedia.org/wikipedia/th/6/62/Yamyasothon.jpg" group-title="หนังไทย", แหยม ยโสธร 1 (2005)
+https://2i7.short.gy/movie/hello-yasothorn-1-th-1080p-fwtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ตายโหง ตายเฮี้ยน (2014) Still" tvg-logo="https://img.inwiptv.net/postor/20220819195457udYMwdTCeIjlpuiciutKEzGeuRm.jpg" group-title="หนังไทย", ตายโหง ตายเฮี้ยน (2014) Still
+https://m1free.inwstream.com:1936/movie3/Still_2_2014/Still_2_2014_th_1080p.mp4?.m3u8
+
+
+
+############## HORROR ##############
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/202305171817175ik4ATKmNtmJU6AYD0bLm56BCVM.jpg", Evil Dead Rise (2023) ผีอมตะผงาด
+https://m1free.inwstream.com:1936/movie3/Evil_Dead_Rise_2023/Evil_Dead_Rise_2023_th_1080p_5.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20230610192312jFC4LS5qTAT3PinzdEzINfu1CV9.jpg", The Pope's Exorcist (2023) โป๊ปปราบผี
+https://m1free.inwstream.com:1936/movie3/The_Pope_s_Exorcist_2023/The_Pope_s_Exorcist_2023_th_1080p_FF.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/202306041523002OaprROMZZeiWsydjGUIkXrv2Z3.jpg", Renfield (2023) เรนฟิลด์
+https://m1free.inwstream.com:1936/movie3/Renfield_2023/Renfield_2023_thr_z1.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20230512184555s6P8x5ah3x4mOKsgZqplY83YKAY.jpg", The Unborn Soul (2023) ลูกรัก... วิญญาณอาถรรพ์
+https://m1free.inwstream.com:1936/movie3/The_Unborn_Soul_2023/The_Unborn_Soul_2023_st_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20230226063859dm06L9pxDOL9jNSK4Cb6y139rrG.jpg", Knock at the Cabin (2023) เสียงเคาะที่กระท่อม
+https://m1free.inwstream.com:1936/movie3/Knock_at_the_Cabin_2023/Knock_at_the_Cabin_2023_st_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20221225182936yGYB4gTfn2M0xShT08Ei1d8cKZk.jpg", Prey for the Devil (2022) สวดส่งไปลงนรก
+https://m1free.inwstream.com:1936/movie3/Prey_for_the_Devil_2022/Prey_for_the_Devil_2022_st_1080p_TT.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/202108031134153ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg", The Rental (2022) บ้านเช่ารอเชือด
+https://m1free.inwstream.com:1936/movie3/The_Rental_2020/The_Rental_2020_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20230702042616uLDYfeJ9BvrQsC3MBqMUjG4Hgaz.jpg", Hellbender (2021) บ้านฝ่านรก
+https://m1free.inwstream.com:1936/movie3/Hellbender_2021/Hellbender_2021_st_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20230707060005the_cut_aka_cadaver_aka_anonymous_blood-237010517-large.jpg", Cadaver(The Cut) (2007)
+https://m1free.inwstream.com:1936/movie3/Cadaver_2007/Cadaver_2007_st_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20190612192425cadaver-5bffc883a745b.jpg", The Possession of Hannah Grace (2018) ห้องเก็บศพ
+https://m1free.inwstream.com:1936/movie3/The-Possession-of-Hannah-Grace-2018/The-Possession-of-Hannah-Grace-2018-th-1080p.m4v?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200511163937World%20War%20Z%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%20Z%20(2013).jpg", World War Z (2013) มหาวิบัติสงคราม Z
+https://m1free.inwstream.com:1936/movie1/World-War-Z-2013/World-War-Z-2013-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/2018120507110728-days-later-55b14404ad745.jpg", 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน
+https://2i7.short.gy/movie/28-Days-Later-2002-TH-1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20170710130342Dawn_Of_The_Dead_2004-[cdcovers_cc]-front.jpg", Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย
+https://m1free.inwstream.com:1936/movie3/Dawn-of-the-Dead-2004/Dawn-of-the-Dead-2004-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20180405061912insidious-chapter-4-5ab1a21c80787%20(1).jpg", Insidious: The Last Key วิญญาณตามติด: กุญแจผีบอก (2018)
+https://m1free.inwstream.com:1936/movie3/Insidious-The-Last-Key-2018/Insidious-The-Last-Key-2018-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200520141305Insidious%20Chapter%203%20%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%203%20(2015).jpg", Insidious: Chapter 3 วิญญาณตามติด 3 (2015)
+https://m1free.inwstream.com:1936/movie2/Insidious%20Chapter%203%20(2015)/Insidious%20Chapter%203%20(2015)%20th%201080p%20fw.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200520141533Insidious%20Chapter%202%20%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%20%E0%B8%A0%E0%B8%B2%E0%B8%84%202%20(2013).jpg", Insidious: Chapter 2 วิญญาณตามติด ภาค 2 (2013)
+https://m1free.inwstream.com:1936/movie1/Insidious-Chapter-2-2013/Insidious-Chapter-2-2013-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200520141739Insidious%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%AA%20%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%20(2010).jpg", Insidious อินซิเดียส วิญญาณตามติด (2010)
+https://m1free.inwstream.com:1936/movie1/Insidious-2010/Insidious-2010-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20180201163721saw-viii-5a545df5be4ce.jpg", Jigsaw เกมต่อตัดตาย (2017)
+https://2i7.short.gy/movie/Jigsaw+2017.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114140313saw-3d-the-final-chapter-529180debefac.jpg", Saw VII: The Final Chapter เกม ตัด-ต่อ-ตาย 7 (2010)
+https://m1free.inwstream.com:1936/movie3/Saw-7-2010/Saw-7-2010-TH-480p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114140523saw-vi-52915daaf4164.jpg", Saw VI เกม ตัด-ต่อ-ตาย 6 (2009)
+https://m1free.inwstream.com:1936/movie3/Saw-6-2009/Saw-6-2009-TH-480p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114140752saw-v-52914a108b7c4.jpg", Saw V เกม ตัด-ต่อ-ตาย 5 (2008)
+https://m1free.inwstream.com:1936/movie3/Saw-5-2008/Saw-5-2008-TH-480p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114141037saw-iv-52911af697ff0.jpg", Saw IV เกม ตัด-ต่อ-ตาย 4 (2007)
+https://m1free.inwstream.com:1936/movie3/Saw-4-2007/Saw-4-2007-TH-480p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114141302saw-iii-5290fc2c942cc.jpg", Saw III ซอว์ เกม ตัด-ต่อ-ตาย 3 (2006)
+https://m1free.inwstream.com:1936/movie3/Saw-3-2006/Saw-3-2006-TH-480p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114141513saw-ii-54a02f6745f60.jpg", Saw II ซอว์ เกม ตัด-ต่อ-ตาย 2 (2005)
+https://m1free.inwstream.com:1936/movie3/Saw-2-2005/Saw-2-2005-TH-480p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171114141812saw-53f78474c5d83.jpg", Saw ซอว์ เกม ตัด-ต่อ-ตาย (2004)
+https://m1free.inwstream.com:1936/movie3/Saw-2004/Saw-2004-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/201912130217456.jpg", Wrong Turn 6: Last Resort หวีดเขมือบคน 6: รีสอร์ทอำมหิต (2014)
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_6_Last_Resort_2014/Wrong_Turn_6_Last_Resort_2014_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/201912130213015.jpg", Wrong Turn 5: Bloodlines หวีดเขมือบคน 5 ปาร์ตี้สยอง (2012)
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_5_Bloodlines_2012/Wrong_Turn_5_Bloodlines_2012_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/201912130207184.jpg", Wrong Turn 4: Bloody Beginnings หวีดเขมือบคน 4: ปลุกโหดโรงเชือดสยอง (2011)
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_4_Bloody_Beginnings_2011/Wrong_Turn_4_Bloody_Beginnings_2011_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/201912130200373.jpg", Wrong Turn 3: Left for Dead หวีดเขมือบคน 3 (2009)
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_3_Left_for_Dead_2009/Wrong_Turn_3_Left_for_Dead_2009_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/201912130155012.jpg", Wrong Turn 2: Dead End หวีดเขมือบคน 2 (2007)
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_2_Dead_End_2007/Wrong_Turn_2_Dead_End_2007_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/201912130147131.jpg", Wrong Turn หวีดเขมือบคน (2003)
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_2003/Wrong_Turn_2003_th_1080p.mp4?.m3u8
+
+
+
+############## ANIME ##############
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230723140210qayga07ICNDswm0cMJ8P3VwklFZ.jpg", Resident Evil: Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ
+https://m1free.inwstream.com:1936/movie3/Resident_Evil_Death_Island_2023/Resident_Evil_Death_Island_2023_th_1080_2ch.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230618204914gNVYqSnZ89UyTZ977SEJLze4g3X.jpg", Black Clover: Sword of the Wizard King (2023) แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์
+https://m1free.inwstream.com:1936/movie3/Black_Clover_Sword_of_the_Wizard_King_2023/Black_Clover_Sword_of_the_Wizard_King_2023_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230610063647iXD2VjzyXmOGJrR0Kt46IUpH3DE.jpg", The Super Mario Bros. Movie (2023) เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่
+http://rock.i234.me:8085/%E0%B8%81%E0%B8%B2%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C/The%20Super%20Mario%20Bros.%20Movie%20(2023)/The%20Super%20Mario%20Bros.%20Movie%20(2023).mkv
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero-2022.webp", Dragon Ball Super Super Hero (2022) ดราก้อนบอล ซุปเปอร์ ซุปเปอร์ฮีโร่
+https://agr3.short.gy/movie/DBS+Super+Hero.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230610185812ogDXuVkO92GcETZfSofXXemw7gb.jpg", One Piece Film: Red (2022) วันพีซ ฟิล์ม: เรด
+https://m1free.inwstream.com:1936/movie3/One_Piece_Film_Red_2022/One_Piece_Film_Red_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20220922124419m8nyqnn2K7WzxcAKzCxPxuX7Yd1.jpg", Jujutsu Kaisen 0: The Movie (2021) มหาเวทย์ผนึกมาร ซีโร่
+https://m1free.inwstream.com:1936/movie3/Jujutsu_Kaisen_0_The_Movie_2021/Jujutsu_Kaisen_0_The_Movie_2021_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20220901142059yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg", Sword Art Online Progressive: Aria of a Starless Night (2021) ซอร์ต อาร์ต ออนไลน์ เดอะ มูฟวี่ 2
+https://m1free.inwstream.com:1936/movie3/Sword_Art_Online_Progressive_Aria_of_a_Starless_Night_2021/Sword_Art_Online_Progressive_Aria_of_a_Starless_Night_2021_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Entertainment-District-Decisive-Battle-Arc-2023.jpg", DEMON SLAYER THE MOVIE (2023) ดาบพิฆาตอสูร เดอะมูฟวี่: สู่หมู่บ้านช่างตีดาบ
+https://agr3.short.gy/movie/kimetsu-no-yaiba-movie-2023.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Entertainment-District-Infiltration-Arc-2021.jpg", DEMON SLAYER: ENTERTAINMENT DISTRICT INFILTRATION ARC (2021) ดาบพิฆาตอสูร บทแทรกซึมย่านเริงรมย์
+https://agr3.short.gy/movie/DemonSlayer2021.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20210430091424MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_.jpg", Demon Slayer the Movie: Mugen Train (2020) ดาบพิฆาตอสูร เดอะมูฟวี่: ศึกรถไฟสู่นิรันดร์
+https://m1free.inwstream.com:1936/movie3/Demon_Slayer_the_Movie_Mugen_Train_2020/Demon_Slayer_the_Movie_Mugen_Train_2020_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Into the Spider-Verse (2018) สไปเดอร์-แมน: ผงาดสู่จักรวาล-แมงมุม" tvg-logo="https://img.inwiptv.net/postor/201903132218111165156156.jpg" group-title="ANIME", Spider-Man: Into the Spider-Verse สไปเดอร์-แมน: ผงาดสู่จักรวาล-แมงมุม
+https://m1free.inwstream.com:1936/movie3/Spider-Man-Into-the-Spider-Verse-2018/Spider-Man-Into-the-Spider-Verse-2018-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/05/One-Piece-Episode-Of-Skypiea-2018-265x375.jpg", One Piece Episode Of Skypiea (2018) วันพีซ ภาคพิเศษ: เอพพิโซด ออฟ สกายเปีย
+https://agr3.short.gy/movie/OnePieceEpisodeOfSkypiea.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20180523161559MV5BZGE4M2M2OTYtZDgwMy00NGYwLWE0YTYtYzkyMDFjYWFhN2QzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY1000_CR0,0,647,1000_AL_.jpg", Sword Art Online: The Movie Ordinal Scale (2017) ซอร์ต อาร์ต ออนไลน์ เดอะ มูฟวี่ ออร์ดินอล สเกล
+https://m1free.inwstream.com:1936/movie3/Sword-Art-Online-The-Movie-Ordinal-Scale-2017/Sword-Art-Online-The-Movie-Ordinal-Scale-2017-TH-1080p.mp4?.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
+https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080_2ch.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20211020142110bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="หนังภาคต่อ", Fast and Furious F9: The Fast Saga เร็ว..แรงทะลุนรก 9 (2021)
+https://m1free.inwstream.com:1936/movie3/Fast_and_Furious_F9_The_Fast_Saga_2021/Fast_and_Furious_F9_The_Fast_Saga_2021_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20191113070713fast--furious-presents-hobbs--shaw-5d08dc7011654.jpg" group-title="หนังภาคต่อ", Fast & Furious Presents: Hobbs & Shaw เร็ว...แรงทะลุนรก ฮ็อบส์ & ชอว์ (2019)
+https://m1free.inwstream.com:1936/movie3/Fast_And_Furious_Presents_Hobbs_And_Shaw_2019/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019_TH_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20170719102644box01a0a8a.jpg" group-title="หนังภาคต่อ", The Fate of the Furious (Fast and Furious 8) เร็ว...แรงทะลุนรก 8 (2017)
+https://m1free.inwstream.com:1936/movie3/The-Fate-of-the-Furious-2017/Fast-and-Furious-8-2017-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200412182834Fast%20&%20Furious%207%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%207%20(2015)%20Extended.jpg" group-title="หนังภาคต่อ", Fast & Furious 7 เร็ว..แรงทะลุนรก 7 (2015)
+https://m1free.inwstream.com:1936/movie2/Fast%20and%20furious%207%202015%20extended/Fast%20and%20furious%207%202015%20extended%20th%201080p%20fw.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200317150513The%20Fast%20and%20the%20Furious%20(2013)%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%206.jpg" group-title="หนังภาคต่อ", The Fast and the Furious (2013) เร็ว..แรงทะลุนรก 6
+https://m1free.inwstream.com:1936/movie2/The_Fast_And_The_Furious-1-6/The_Fast_And_The_Furious_2013_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200317153948The%20Fast%20and%20the%20Furious%20(2011)%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%205.jpg" group-title="หนังภาคต่อ", The Fast and the Furious (2011) เร็ว..แรงทะลุนรก 5
+https://m1free.inwstream.com:1936/movie2/The_Fast_And_The_Furious-1-6/The_Fast_And_The_Furious_2011_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200318102605The%20Fast%20and%20the%20Furious%20(2009)%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%204.jpg" group-title="หนังภาคต่อ", The Fast and the Furious (2009) เร็ว..แรงทะลุนรก 4
+https://m1free.inwstream.com:1936/movie2/The_Fast_And_The_Furious-1-6/The_Fast_And_The_Furious_2009_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200318103411The%20Fast%20and%20the%20Furious%20(2006)%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%203.jpg" group-title="หนังภาคต่อ", The Fast and the Furious (2006) เร็ว..แรงทะลุนรก 3
+https://m1free.inwstream.com:1936/movie2/The_Fast_And_The_Furious-1-6/The_Fast_And_The_Furious_2006_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200318104502The%20Fast%20and%20the%20Furious%20(2003)%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%202.jpg" group-title="หนังภาคต่อ", The Fast and the Furious (2003) เร็ว..แรงทะลุนรก 2
+https://m1free.inwstream.com:1936/movie2/The_Fast_And_The_Furious-1-6/The_Fast_And_The_Furious_2003_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200318170727The%20Fast%20and%20the%20Furious%20(2001)%20%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%811.jpg" group-title="หนังภาคต่อ", The Fast and the Furious (2001) เร็ว..แรงทะลุนรก 1
+https://m1free.inwstream.com:1936/movie2/The_Fast_And_The_Furious-1-6/The_Fast_And_The_Furious_2001_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200513141758Jack%20Reacher%20Never%20Go%20Back%20%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%202%20(2016).jpg", Jack Reacher: Never Go Back (2016) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ 2
+https://m1free.inwstream.com:1936/movie2/Jack-Reacher-Never-Go-Back-2016/Jack-Reacher-Never-Go-Back-2016-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200509180435Jack%20Reacher%20%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%20%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%20(2012).jpg", Jack Reacher (2012) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ
+https://m1free.inwstream.com:1936/movie1/Jack-Reacher-2012/Jack-Reacher-2012-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20190912063329john-wick-chapter-3--parabellum-5d640cbfa6ef8.jpg" group-title="หนังภาคต่อ", John Wick: Chapter 3 Parabellum (2019) จอห์น วิค แรงกว่านรก 3
+https://2i7.short.gy/movie/John_Wick_Chapter_3_Parabellum_2019_TH_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20170613222850john-wick-chapter-2-dvd-cover.jpg" group-title="หนังภาคต่อ", John Wick: Chapter 2 (2017) จอห์น วิค แรงกว่านรก 2
+https://2i7.short.gy/movie/John-Wick-Chapter-2-2017-th-1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200408160530John%20Wick%20%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%84%20%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%20(2014).jpg" group-title="หนังภาคต่อ", John Wick (2014) จอห์นวิค แรงกว่านรก
+https://2i7.short.gy/movie/john_wick_2014_th_1080p_fw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20220823073929jeGvNOVMs5QIU1VaoGvnd3gSv0G.jpg" group-title="หนังภาคต่อ", Top Gun: Maverick (2022) ท็อปกัน มาเวอริค
+https://m1free.inwstream.com:1936/movie3/Top_Gun_Maverick_2022/Top_Gun_Maverick_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20190722062643top-gun-58dc5e843e290.jpg" group-title="หนังภาคต่อ", Top Gun (1986) ท็อปกัน ฟ้าเหนือฟ้า
+https://m1free.inwstream.com:1936/movie3/Top_Gun_1986/Top_Gun_1986_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 6 (2018) มิชชั่น อิมพอสซิเบิ้ล 6 ฟอลล์เอาท์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/07/1532759544_Zh6K1.jpg" group-title="หนังภาคต่อ",Mission Impossible 6 (2018) มิชชั่น อิมพอสซิเบิ้ล 6 ฟอลล์เอาท์
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/172912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 5 (2015) มิชชั่น:อิมพอสซิเบิ้ล 5 ปฏิบัติการรัฐอำพราง" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/XllLuioDwTfJNdz1tau.jpg" group-title="หนังภาคต่อ",Mission Impossible 5 (2015) มิชชั่น:อิมพอสซิเบิ้ล 5 ปฏิบัติการรัฐอำพราง
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/172669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 4 (2011) Ghost Protocol ปฏิบัติการไร้เงา" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TZRQWGXxdRPaYbnJtMf.jpg" group-title="หนังภาคต่อ",Mission Impossible 4 (2011) Ghost Protocol ปฏิบัติการไร้เงา
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/172670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 3 (2006) ผ่าปฏิบัติการสะท้านโลก ภาค 3" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/fctDziQvE7cBOwhGYJd.jpg" group-title="หนังภาคต่อ",Mission Impossible 3 (2006) ผ่าปฏิบัติการสะท้านโลก ภาค 3
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/172437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 2 (2000) ผ่าปฏิบัติการสะท้านโลก ภาค 2" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/wijQhDzWTPr25Ew4f6p.jpg" group-title="หนังภาคต่อ",Mission Impossible 2 (2000) ผ่าปฏิบัติการสะท้านโลก ภาค 2
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/172438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 1 (1996) ผ่าปฏิบัติการสะท้านโลก ภาค 1" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/o83Ftc3WO9QMIGG1I8J.jpg" group-title="หนังภาคต่อ",Mission Impossible 1 (1996) ผ่าปฏิบัติการสะท้านโลก ภาค 1
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/172439.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zombieland ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้" tvg-logo="https://img.inwiptv.net/postor/20200110140617zombieland-2-5d3df953333a9.jpg" group-title="หนังภาคต่อ", Zombieland : Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้
+https://m1free.inwstream.com:1936/movie3/Zombieland_Double_Tap_2019/Zombieland_Double_Tap_2019_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zombieland ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้" tvg-logo="https://img.inwiptv.net/postor/20190209071821zombieland-53d29ab215f7b.jpg" group-title="หนังภาคต่อ", Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
+https://m1free.inwstream.com:1936/movie3/Zombieland-2009/Zombieland-2009-TH-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Sorcerer's Stone แฮร์รี่ พอตเตอร์ กับ ศิลาอาถรรพ์ (2001) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzABXZRK1KWzvr7vWvNGVCVD1wZ.jpg" group-title="หนังภาคต่อ",Harry Potter and the Sorcerer's Stone แฮร์รี่ พอตเตอร์ กับ ศิลาอาถรรพ์ (2001) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Chamber of Secrets แฮร์รี่ พอตเตอร์ กับ ห้องแห่งความลับ (2002) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwSseKckKoCX97lqufQYf1CMh6P.jpg" group-title="หนังภาคต่อ",Harry Potter and the Chamber of Secrets แฮร์รี่ พอตเตอร์ กับ ห้องแห่งความลับ (2002) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Goblet of Fire แฮร์รี่ พอตเตอร์ กับ ถ้วยอัคนี (2005) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zImZTGvsVeKanDyPUqp6FxSC2Ob.jpg" group-title="หนังภาคต่อ",Harry Potter and the Goblet of Fire แฮร์รี่ พอตเตอร์ กับ ถ้วยอัคนี (2005) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Order of the Phoenix แฮร์รี่ พอตเตอร์ กับ ภาคีนกฟีนิกซ์ (2007) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yfnqm0NLpxUUkIjzDFTYOyxAa7.jpg" group-title="หนังภาคต่อ",Harry Potter and the Order of the Phoenix แฮร์รี่ พอตเตอร์ กับ ภาคีนกฟีนิกซ์ (2007) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Half-Blood Prince แฮร์รี่ พอตเตอร์ กับ เจ้าชายเลือดผสม (2009) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23Mj3VjYOZbtyg2HJM4fG9YvGkR.jpg" group-title="หนังภาคต่อ",Harry Potter and the Half-Blood Prince แฮร์รี่ พอตเตอร์ กับ เจ้าชายเลือดผสม (2009) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Deathly Hallows: Part 1 แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมทูต ภาค 1 (2010) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diFAlsn6Od5PAVNxXd9bimKv4Jx.jpg" group-title="หนังภาคต่อ",Harry Potter and the Deathly Hallows: Part 1 แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมทูต ภาค 1 (2010) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Deathly Hallows: Part 2 แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมทูต ภาค 2 (2011) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoobu2JpwX5mQpRH5CN8D4Yqxzf.jpg" group-title="หนังภาคต่อ",Harry Potter and the Deathly Hallows: Part 2 แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมทูต ภาค 2 (2011) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220635.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="James Bond 007 Casino Royale ภาค 21: พยัคฆ์ร้ายเดิมพันระห่ำโลก (2006) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="หนังภาคต่อ",James Bond 007 Casino Royale ภาค 21: พยัคฆ์ร้ายเดิมพันระห่ำโลก (2006) Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Casino-Royale-2006-21/Casino-Royale-2006-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="James Bond 007 Quantum of Solace ภาค 22 พยัคฆ์ร้ายทวงแค้นระห่ำโลก (2008) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg" group-title="หนังภาคต่อ",James Bond 007 Quantum of Solace ภาค 22 พยัคฆ์ร้ายทวงแค้นระห่ำโลก (2008) Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Quantum-of-Solace-2008-22/Quantum-of-Solace-2008-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="James Bond 007 Skyfall ภาค 23 พลิกรหัสพิฆาตพยัคฆ์ร้าย (2012) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg" group-title="หนังภาคต่อ",James Bond 007 Skyfall ภาค 23 พลิกรหัสพิฆาตพยัคฆ์ร้าย (2012) Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Skyfall-2012-23/Skyfall-2012-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="James Bond 007 Spectre ภาค 24 องค์กรลับดับพยัคฆ์ร้าย (2015)  Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/672kUEMtTHcaVYSVY4eiHEliHFa.jpg" group-title="หนังภาคต่อ",James Bond 007 Spectre ภาค 24 องค์กรลับดับพยัคฆ์ร้าย (2015)  Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Spectre_2015/Spectre_2015_th_en_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เจมส์ บอนด์ 007 ภาค 20: พยัคฆ์ร้ายท้ามรณะ (2002) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg" group-title="หนังภาคต่อ",เจมส์ บอนด์ 007 ภาค 20: พยัคฆ์ร้ายท้ามรณะ (2002) Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Die-Another-Day-2002-20/Die-Another-Day-2002-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เจมส์ บอนด์ 007 ภาค 19: พยัคฆ์ร้ายดับแผนครองโลก (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCb2msgoZPK01WIqry24M4xsM73.jpg" group-title="หนังภาคต่อ",เจมส์ บอนด์ 007 ภาค 19: พยัคฆ์ร้ายดับแผนครองโลก (1999)
+https://b1.inwstream.com:1936/FW_Blu-Ray/The-World-Is-Not-Enough-1999-19/The-World-Is-Not-Enough-1999-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เจมส์ บอนด์ 007 ภาค 18: พยัคฆ์ร้ายไม่มีวันตาย (1997) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZm002w7q9yLOkltxT76TWGfdZX.jpg" group-title="หนังภาคต่อ",เจมส์ บอนด์ 007 ภาค 18: พยัคฆ์ร้ายไม่มีวันตาย (1997) Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Tomorrow-Never-Dies-1997-18/Tomorrow-Never-Dies-1997-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เจมส์ บอนด์ 007 ภาค 17: รหัสลับทลายโลก (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg" group-title="หนังภาคต่อ",เจมส์ บอนด์ 007 ภาค 17: รหัสลับทลายโลก (1995)
+https://b1.inwstream.com:1936/FW_Blu-Ray/GoldenEye-1995-17/GoldenEye-1995-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เจมส์ บอนด์ 007 ภาค 16: รหัสสังหาร (1989) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D2SUJoWd09hkApMNRmjWLPhifP.jpg" group-title="หนังภาคต่อ",เจมส์ บอนด์ 007 ภาค 16: รหัสสังหาร (1989) Blu-ray
+https://b1.inwstream.com:1936/FW_Blu-Ray/Licence-to-Kill-1989-16/Licence-to-Kill-1989-th-en-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เจมส์ บอนด์ 007 ภาค 15: พยัคฆ์สะบัดลาย (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcP0sarQXmx7XgwNoxJtqbllNyM.jpg" group-title="หนังภาคต่อ",เจมส์ บอนด์ 007 ภาค 15: พยัคฆ์สะบัดลาย (1987)
+https://b1.inwstream.com:1936/FW_Blu-Ray/The-Living-Daylights-1987-15/The-Living-Daylights-1987-th-en-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20210711135229black-widow-60e82116f2022.jpg" group-title="หนังภาคต่อ", Black Widow แบล็ค วิโดว์ (2021)
+https://m1free.inwstream.com:1936/movie3/Black_Widow_2021/Black_Widow_2021_th_1080p_F.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Avengers ดิ อเวนเจอร์ส (2012) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KeInKlzWHgcq77moApD2WVACCU.jpg" group-title="หนังภาคต่อ",The Avengers ดิ อเวนเจอร์ส (2012) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Age of Ultron อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก (2015) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xG0LayN1vodKXOsHzLyJezGzfn.jpg" group-title="หนังภาคต่อ",Avengers: Age of Ultron อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก (2015) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War อเวนเจอร์ส: มหาสงครามล้างจักรวาล (2018) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQZQ6Ss9y0r8IKeBS3cIoGg0vPt.jpg" group-title="หนังภาคต่อ",Avengers: Infinity War อเวนเจอร์ส: มหาสงครามล้างจักรวาล (2018) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame อเวนเจอร์ส: เผด็จศึก (2019) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yxw4uVfwPwvvwKocEfNDiGi8rR.jpg" group-title="หนังภาคต่อ",Avengers: Endgame อเวนเจอร์ส: เผด็จศึก (2019) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: Civil War 4K HDR (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYGw3KIKRkAig0QoAa03Mxn2zWc.jpg" group-title="หนังภาคต่อ",Captain America: Civil War 4K HDR (2016)
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man มหาประลัยคนเกราะเหล็ก (2008) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52WSrke4hCaOVPEduPJTTX07ZVv.jpg" group-title="หนังภาคต่อ",Iron Man มหาประลัยคนเกราะเหล็ก (2008) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 (2010) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnuP3m5AdVZxu8nBvzA9kQqjZJO.jpg" group-title="หนังภาคต่อ",Iron Man 2 (2010) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 (2013) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/si2aUOlXzEcVehABSWds2wRacbv.jpg" group-title="หนังภาคต่อ",Iron Man 3 (2013) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man มนุษย์มดมหากาฬ (2015) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ql1svVrEiL6JFOlSAe6HLxSBzy.jpg" group-title="หนังภาคต่อ",Ant-Man มนุษย์มดมหากาฬ (2015) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania ตะลุยมิติควอนตัม (2023) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXr1dH1FNdqHYYjptU90EsBlRZs.jpg" group-title="หนังภาคต่อ",Ant-Man and the Wasp: Quantumania ตะลุยมิติควอนตัม (2023) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp (2018) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrAk8TtwjeJVj9cAYLl7nJ5JFkk.jpg" group-title="หนังภาคต่อ",Ant-Man and the Wasp (2018) Blu-ray
+http://6395online.com:8080/movie/mrpoogapooga@gmail.com/085858/220657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange in the Multiverse of Madness (2022) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย" tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg" group-title="หนังภาคต่อ", Doctor Strange in the Multiverse of Madness (2022) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย
+https://m1free.inwstream.com:1936/movie3/Doctor_Strange_in_the_Multiverse_of_Madness_2022/Doctor_Strange_in_the_Multiverse_of_Madness_2022_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200517124149Doctor%20Strange%20%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%88%E0%B9%8C%20%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%20(2016).jpg" group-title="หนังภาคต่อ", Doctor Strange (2016) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ
+https://m1free.inwstream.com:1936/movie2/Doctor-Strange-2016/Doctor-Strange-2016-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol.2 (2017) รวมพันธุ์นักสู้พิทักษ์จักรวาล 2" tvg-logo="https://img.inwiptv.net/postor/20230507154857y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg" group-title="หนังภาคต่อ", Guardians of the Galaxy Vol.2 (2017) รวมพันธุ์นักสู้พิทักษ์จักรวาล 2
+https://m1free.inwstream.com:1936/movie3/Guardians_of_the_Galaxy_Vol_2_2017/Guardians_of_the_Galaxy_Vol_2_2017_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล" tvg-logo="https://img.inwiptv.net/postor/20230507153836r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="หนังภาคต่อ", Guardians of the Galaxy (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล
+https://m1free.inwstream.com:1936/movie3/Guardians_of_the_Galaxy_2014/Guardians_of_the_Galaxy_2014_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home Extended Version (2021)" tvg-logo="https://img.inwiptv.net/postor/20221024025623uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg" group-title="หนังภาคต่อ", Spider-Man: No Way Home Extended Version (2021)
+https://m1free.inwstream.com:1936/movie3/Spider_Man_No_Way_Home_2021/Spider_Man_No_Way_Home_2021_Extended_Version_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2021) สไปเดอร์แมน: โน เวย์ โฮม" tvg-logo="https://img.inwiptv.net/postor/20220316083912spider-man-no-way-home-61a3f7e566e28.jpg" group-title="หนังภาคต่อ", Spider-Man: No Way Home (2021) สไปเดอร์แมน: โน เวย์ โฮม
+https://m1free.inwstream.com:1936/movie3/Spider_Man_No_Way_Home_2021/Spider_Man_No_Way_Home_2021_TH_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far from Home (2019) สไปเดอร์-แมน ฟาร์ ฟรอม โฮม" tvg-logo="https://img.inwiptv.net/postor/20190923074230spider-man--far-from-home-5d3f60dd4e8fe.jpg" group-title="หนังภาคต่อ", Spider-Man: Far from Home (2019) สไปเดอร์-แมน ฟาร์ ฟรอม โฮม
+https://m1free.inwstream.com:1936/movie3/Spider_Man_Far_from_Home_2019/Spider_Man_Far_from_Home_2019_TH_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever (2022) แบล็ค แพนเธอร์: วาคานด้าจงเจริญ" tvg-logo="https://img.inwiptv.net/postor/202302011543287ZINBixo7zO21iF9doe1cSTHrV4.jpg" group-title="หนังภาคต่อ", Black Panther: Wakanda Forever (2022) แบล็ค แพนเธอร์: วาคานด้าจงเจริญ
+https://m1free.inwstream.com:1936/movie3/Black_Panther_Wakanda_Forever_2022/Black_Panther_Wakanda_Forever_2022_th_1080p_5.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther (2018) แบล็ค แพนเธอร์" tvg-logo="https://img.inwiptv.net/postor/20180508095209MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="หนังภาคต่อ", Black Panther (2018) แบล็ค แพนเธอร์
+https://2i7.short.gy/movie/Black-Panther-2018-th-1080p-fw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022) ธอร์: ด้วยรักและอัสนี" tvg-logo="https://img.inwiptv.net/postor/202209072006452kpJdmtf3o0GrowVjM5AspC4dY2.jpg" group-title="หนังภาคต่อ", Thor: Love and Thunder (2022) ธอร์: ด้วยรักและอัสนี
+https://m1free.inwstream.com:1936/movie3/Thor_Love_and_Thunder_2022/Thor_Love_and_Thunder_2022_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017) ธอร์ ศึกอวสานเทพเจ้า" tvg-logo="https://img.inwiptv.net/postor/20180220110101MV5BMTkwODAyNzA5OV5BMl5BanBnXkFtZTgwNTM0NjIzMzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="หนังภาคต่อ", Thor: Ragnarok (2017) ธอร์ ศึกอวสานเทพเจ้า
+https://2i7.short.gy/movie/Thor-Ragnarok-2017-th-1080p-fw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง" tvg-logo="https://img.inwiptv.net/postor/2017092809020420170706091137!Spider-Man_Homecoming_poster.jpg" group-title="หนังภาคต่อ", Spider-Man: Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง
+https://m1free.inwstream.com:1936/movie3/Spider-Man-Homecoming-2017/Spider-Man-Homecoming-2017-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2008) เดอะ ฮัลค์ มนุษย์ตัวเขียวจอมพลัง" tvg-logo="https://img.inwiptv.net/postor/20170612104422the-incredible-hulk-5236f9e1e60da.jpg" group-title="หนังภาคต่อ", The Incredible Hulk (2008) เดอะ ฮัลค์ มนุษย์ตัวเขียวจอมพลัง
+https://m1free.inwstream.com:1936/movie3/The-Incredible-Hulk-2008/The-Incredible-Hulk-2008-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor: The Dark World (2013) ธอร์ เทพเจ้าสายฟ้าโลกาทมิฬ" tvg-logo="https://img.inwiptv.net/postor/20200515162017Thor%20The%20Dark%20World%20%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC%20(2013).jpg" group-title="หนังภาคต่อ", Thor: The Dark World (2013) ธอร์ เทพเจ้าสายฟ้าโลกาทมิฬ
+https://m1free.inwstream.com:1936/movie1/Thor-The-Dark-World-2013/Thor-The-Dark-World-2013-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor (2011) ธอร์ เทพเจ้าสายฟ้า" tvg-logo="https://img.inwiptv.net/postor/20200515194703Thor%20%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%20(2011).jpg" group-title="หนังภาคต่อ", Thor (2011) ธอร์ เทพเจ้าสายฟ้า
+https://m1free.inwstream.com:1936/movie1/Thor-2011/Thor-2011-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: The Winter Soldier (2014) กัปตันอเมริกา: เดอะวินเทอร์โซลเจอร์" tvg-logo="https://img.inwiptv.net/postor/20200422144259Captain%20America%20The%20Winter%20Soldier%20%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%20(2014)%20(%E0%B8%A0%E0%B8%B2%E0%B8%84%202).jpg" group-title="หนังภาคต่อ", Captain America: The Winter Soldier (2014) กัปตันอเมริกา: เดอะวินเทอร์โซลเจอร์
+https://m1free.inwstream.com:1936/movie1/Captain-America-The-Winter-Soldier-2014/Captain-America-The-Winter-Soldier-2014-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: The First Avenger (2011) กัปตันอเมริกา: อเวนเจอร์ที่ 1" tvg-logo="https://img.inwiptv.net/postor/20200422143939Captain%20America%20The%20First%20Avenger%20%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%20%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%201%20(2011)%20(%E0%B8%A0%E0%B8%B2%E0%B8%84%201).jpg" group-title="หนังภาคต่อ", Captain America: The First Avenger (2011) กัปตันอเมริกา: อเวนเจอร์ที่ 1
+https://m1free.inwstream.com:1936/movie1/Captain-America-The-First-Avenger-2011/Captain-America-The-First-Avenger-2011-th-1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018) เดดพูล 2" tvg-logo="https://img.inwiptv.net/postor/20180912145554123132456465.jpg" group-title="หนังภาคต่อ", Deadpool 2 (2018) เดดพูล 2
+https://2i7.short.gy/movie/Deadpool-2-2018-th-1080p-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool (2016) เดดพูล" tvg-logo="https://img.inwiptv.net/postor/20200422132213Deadpool%20%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5%20(2016).jpg" group-title="หนังภาคต่อ", Deadpool (2016) เดดพูล
+https://m1free.inwstream.com:1936/movie1/Deadpool-2016/Deadpool-2016-th-1080p_fw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200510174101Back%20to%20the%20Future%20Part%20III%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95%203%20(1990).jpg" group-title="หนังภาคต่อ", Back to the Future Part III เจาะเวลาหาอดีต 3 (1990)
+https://m1free.inwstream.com:1936/movie1/Back-to-the-Future-Part-3-1990/Back-to-the-Future-Part-3-1990-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200510174229Back%20to%20the%20Future%20Part%20II%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95%202%20(1989).jpg" group-title="หนังภาคต่อ", Back to the Future Part II เจาะเวลาหาอดีต 2 (1989)
+https://m1free.inwstream.com:1936/movie1/Back-to-the-Future-Part-2-1989/Back-to-the-Future-Part-2-1989-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20200510174359Back%20to%20the%20Future%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95%20(1985).jpg" group-title="หนังภาคต่อ", Back to the Future เจาะเวลาหาอดีต (1985)
+https://m1free.inwstream.com:1936/movie1/Back-to-the-Future-1985/Back-to-the-Future-1985-TH-1080p.mp4?.m3u8
