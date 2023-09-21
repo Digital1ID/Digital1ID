@@ -1,10 +1,5 @@
 #EXTM3U x-url-tvg=""
 
-#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan (2022) สายลับ แจ็ค ไรอัน S03 E01" group-title="ซีรี่ย์ Prime Video" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/JACK-RYAN-SEASON-3.jpg", Jack Ryan (2022) สายลับ แจ็ค ไรอัน S03 E01
-https://2i7.short.gy/series/JRyanS03E01
-
-#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan (2023) สายลับ แจ็ค ไรอัน S04 E01" group-title="ซีรี่ย์ Prime Video" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/JACK-RYAN-SEASON-4.jpg", Jack Ryan (2023) สายลับ แจ็ค ไรอัน S04 E01
-https://2i7.short.gy/series/JRyanS04E01
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Insidious5.jpg", INSIDIOUS: THE RED DOOR (2023) วิญญาณตามติด: ประตูผีผ่าน
 https://agr3.short.gy/movie/INSIDIOUS-red.m3u8
