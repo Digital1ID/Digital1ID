@@ -1,11 +1,30 @@
 #EXTM3U x-url-tvg=""
 
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230921171314orL3v5KKRqFhwJYGkrZ3jmKEAgy.jpg",The Ghost Station อ๊กซู สถานีผีดุ (2023)
+https://m1free.inwstream.com:1936/movie3/The_Ghost_Station_2023/The_Ghost_Station_2023_th_1080.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Insidious5.jpg", INSIDIOUS: THE RED DOOR (2023) วิญญาณตามติด: ประตูผีผ่าน
-https://agr3.short.gy/movie/INSIDIOUS-red.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230919184008unnamed.jpg",เซียนหรั่ง เดอะมูฟวี่ ZIEN-LANG Best Friends Forever (2023)
+https://m1free.inwstream.com:1936/movie3/ZIEN_LANG_Best_Friends_Forever_2023/ZIEN_LANG_Best_Friends_Forever_2023_th_1080.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/The-Little-Mermaid-2023.jpg", THE LITTLE MERMAID (2023) เงือกน้อยผจญภัย
-https://2i7.short.gy/movie/THE+LITTLE+MERMAID+2023.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230915174415gotIK4YaawA4bC01YefZFMTdsv9.jpg",อาตมาฟ้าผ่า Thunder Monk (2023)
+https://m1free.inwstream.com:1936/movie3/Thunder_Monk_2023/Thunder_Monk_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230902145018wR6Ah7zlT84iIgDu1OdjYC7QrKL.jpg",เสือเผ่น ๑ Tiger Running (2023)
+https://m1free.inwstream.com:1936/movie3/Tiger_Running_2023/Tiger_Running_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie บาร์บี้ (2023)
+https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230826034506d07phJqCx6z5wILDYqkyraorDPi.jpg", Insidious: The Red Door วิญญาณตามติด: ประตูผีผ่าน (2023)
+https://m1free.inwstream.com:1936/movie3/Insidious_The_Red_Door_2023/Insidious_The_Red_Door_2023_th_1080_inw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230907064426dxwSJy75BlnBhxOa9RKZgD4mBnG.jpg", THE LITTLE MERMAID (2023) เงือกน้อยผจญภัย
+https://m1free.inwstream.com:1936/movie3/The_Little_Mermaid_2023/The_Little_Mermaid_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTahL0CtAXYl4kQVhXys9kIk49Erpof9sei1Q&usqp=CAU", Guardians of the Galaxy Vol. 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
+https://m1free.inwstream.com:1936/movie3/Guardians_of_the_Galaxy_Vol_3_2023/Guardians_of_the_Galaxy_Vol_3_2023_th_1080.mp4?.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230722171214cascsacsac.jpg", Oppenheimer (2023) ออพเพนไฮเมอร์
 https://m1free.inwstream.com:1936/movie3/Oppenheimer_2023/Oppenheimer_2023_thr_v1.mp4?.m3u8
@@ -57,7 +76,6 @@ https://m1free.inwstream.com:1936/movie3/John_Wick_Chapter_4_2023/John_Wick_Chap
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nanamovies.me/wp-content/uploads/2023/06/The-Boogeyman-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9A%E0%B8%B9%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%99.jpeg", THE BOOGEYMAN (2023) เดอะ บูกี้แมน
 https://m1free.inwstream.com:1936/movie3/The_Boogeyman_2023/The_Boogeyman_2023_thr_v1.mp4?.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-2022-%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%8B%E0%B8%B5%E0%B8%9F-%E0%B8%AA%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%82%E0%B8%8B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B9%82%E0%B8%A8%E0%B8%81.jpg", Sword Art Online the Movie: Progressive - Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก
 https://m1free.inwstream.com:1936/movie3/Sword_Art_Online_the_Movie_Progressive_Scherzo_of_Deep_Night_2022/Sword_Art_Online_the_Movie_Progressive_Scherzo_of_Deep_Night_2022_thr_z1.mp4?.m3u8
 
@@ -65,9 +83,6 @@ https://m1free.inwstream.com:1936/movie3/Sword_Art_Online_the_Movie_Progressive_
 https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_thr_v1.mp4?.m3u8
 
 ############## MASTER ##############
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTahL0CtAXYl4kQVhXys9kIk49Erpof9sei1Q&usqp=CAU", Guardians of the Galaxy Vol. 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
-http://rock.i234.me:8085/Movie3/Guardians.of.the.galaxy.vol.3.2023.IMAX.1080p.WEB-DL.DDP5.1.Atmos.x265_Mr.Captain@Siambit.mkv
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
 https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080_2ch.mp4?.m3u8
