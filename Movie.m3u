@@ -43,7 +43,7 @@ https://m1free.inwstream.com:1936/movie3/The_Childe_2023/The_Childe_2023_thr_z1.
 https://m1free.inwstream.com:1936/movie3/Gran_Turismo_2023/Gran_Turismo_2023_thr_v1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230821014437csacsacsacac.jpg",Blue Beetle บลู บีเทิล (2023)
-https://m1free.inwstream.com:1936/movie3/Blue_Beetle_2023/Blue_Beetle_2023_thr_v1.mp4?.m3u8
+http://oneid.c1.biz/movie/index.php?url=https://hlsp2p.com/view/fba7edb8-c1b1-54da-8381-29af2de74a7e.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230830191327csacascsa.jpg",Teenage Mutant Ninja Turtles: Mutant Mayhem เต่านินจา: โกลาหลกลายพันธุ์ (2023)
 https://m1free.inwstream.com:1936/movie3/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023_thr_z1.mp4?.m3u8
@@ -618,6 +618,16 @@ https://m1free.inwstream.com:1936/movie3/Sword-Art-Online-The-Movie-Ordinal-Scal
 
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="",
 
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20180425093723maze-runner-the-death-cure-5ad0953885f11.jpg",Maze Runner: The Death Cure เมซ รันเนอร์ ไข้มรณะ (2018)
+https://m1free.inwstream.com:1936/movie3/Maze-Runner-The-Death-Cure-2018/Maze-Runner-The-Death-Cure-2018-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200418132413Maze%20Runner%20The%20Scorch%20Trials%20%E0%B9%80%E0%B8%A1%E0%B8%8B%20%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B9%89%20(2015).jpg",Maze Runner: The Scorch Trials เมซ รันเนอร์ สมรภูมิมอดไหม้ (2015)
+https://m1free.inwstream.com:1936/movie2/Maze_Runner_The_Scorch_Trials_2015/Maze_Runner_The_Scorch_Trials_2015_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200407152052The%20Maze%20Runner%20%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%95%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9.jpg",The Maze Runner วงกตมฤตยู (2014)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie2/the_maze_runner_2014/the_maze_runner_2014_th_1080p_fw.m4v/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20171228000751Blade-Runner-2049-2017-%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94-%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C-2049-e1507547960557.jpg",Blade Runner 2049 เบลด รันเนอร์ 2049 (2017)
+https://m1free.inwstream.com:1936/movie3/Blade-Runner-2049-2017/Blade-Runner-2049-2017-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200507140823Blade%20Runner%20The%20Final%20Cut%20%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94%20%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%20(1982).jpg",Blade Runner: The Final Cut เบลด รันเนอร์ (1982)
+https://m1free.inwstream.com:1936/movie1/Blade-Runner-The-Final-Cut-1982/Blade-Runner-The-Final-Cut-1982-TH-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200512131536A%20Good%20Day%20to%20Die%20Hard%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8%20%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%20(2013).jpg",A Good Day to Die Hard วันดีมหาวินาศ คนอึดตายยาก (2013)
 https://m1free.inwstream.com:1936/movie1/A-Good-Day-to-Die-Hard-2013/A-Good-Day-to-Die-Hard-2013-TH-1080p.mp4?.m3u8
@@ -805,6 +815,20 @@ https://m1free.inwstream.com:1936/movie3/Harry_Potter_20th_Anniversary_Return_to
 
 
 
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20230802194702bRdR9EMEjDr5jxMRyt7fvGF0Hy2.jpg",Guardians of the Galaxy Vol. 3 รวมพันธุ์นักสู้พิทักษ์จักรวาล 3 (2023)
+https://m1free.inwstream.com:1936/movie3/Guardians_of_the_Galaxy_Vol_3_2023/Guardians_of_the_Galaxy_Vol_3_2023_th_1080.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20221008023637pPiSqR7aQnBfKDwP1dpz440dLp6.jpg",Werewolf by Night คืนหอน อสูรโหด (2022)
+https://m1free.inwstream.com:1936/movie3/Werewolf_by_Night_2022/Werewolf_by_Night_2022_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20221125220255yHJn0101wUGTqAhjly0flBrDBrl.jpg",The Guardians of the Galaxy Holiday Special (2022)
+https://m1free.inwstream.com:1936/movie3/The_Guardians_of_the_Galaxy_Holiday_Special_2022/The_Guardians_of_the_Galaxy_Holiday_Special_2022_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20220112200424iJEKkoiXhRgfGYK0iRDOUd2wuuc.jpg",Eternals ฮีโร่พลังเทพเจ้า (2021)
+https://m1free.inwstream.com:1936/movie3/Eternals_2021/Eternals_2021_th_1080p_F.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20211111145425shang-chi-and-the-legend-of-the-ten-rings-61512be80bdc1.jpg",Shang-Chi and the Legend of the Ten Rings ชาง-ชี กับตำนานลับเท็นริงส์ (2021)
+https://m1free.inwstream.com:1936/movie3/Shang_Chi_and_the_Legend_of_the_Ten_Rings_2021/Shang_Chi_and_the_Legend_of_the_Ten_Rings_2021_th_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20190613090216captain-marvel-5c08e4b9bbb6f.jpg",Captain Marvel กัปตันมาร์เวล (2019)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Captain_Marvel_2019/Captain_Marve_2019_TH_1080p.m4v/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20210711135229black-widow-60e82116f2022.jpg" group-title="จักรวาล MARVEL", Black Widow แบล็ค วิโดว์ (2021)
 https://m1free.inwstream.com:1936/movie3/Black_Widow_2021/Black_Widow_2021_th_1080p_F.mp4?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Avengers ดิ อเวนเจอร์ส (2012) Blu-ray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KeInKlzWHgcq77moApD2WVACCU.jpg" group-title="จักรวาล MARVEL",The Avengers ดิ อเวนเจอร์ส (2012) Blu-ray
