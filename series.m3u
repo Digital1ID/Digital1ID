@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ Prime Video",The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01
-http://oneid.c1.biz/series/index.php?url=https://series-cdn.team-indy.net:8443/vod/DpcAPiF7b/video.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ahsoka (2023) อาโซก้า พากย์ไทย S01 E01" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-%E0%B8%AD%E0%B8%B2%E0%B9%82%E0%B8%8B%E0%B8%81%E0%B9%89%E0%B8%B2-.jpg" group-title="ซีรี่ย์ Disney+ Hotstar",Ahsoka (2023) อาโซก้า พากย์ไทย S01 E01
-https://2i7.short.gy/series/ahsokaS01E01?.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTJTdETIbuwDvIMZEW9uiTHkpnz-iDDV0NxVQ&usqp=CAU" group-title="ซีรี่ย์ Disney+ Hotstar",Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E01
-http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/223244.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Bleach: Thousand-Year Blood War บลีช เทพมรณะ: สงครามเลือดพันปี การแยกจาก S02 E14" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/10/Bleach-Thousand-Year-Blood-War-1.jpg" group-title="ซีรี่ย์การ์ตูน1",Bleach: Thousand-Year Blood War บลีช เทพมรณะ: สงครามเลือดพันปี การแยกจาก S02 E14
 http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/47c1f268f5be20801eaa12d4db78beff/1/index-v1-a1.m3u8?s=1
 
 #EXTINF:-1 tvg-id="" tvg-name="One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E171" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E171
 https://agr3.short.gy/series/OnePieceS20E1064.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E01" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E01
+https://agr3.short.gy/series/zom100dayS01E01?.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ Prime Video",The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01
+http://oneid.c1.biz/series/index.php?url=https://series-cdn.team-indy.net:8443/vod/DpcAPiF7b/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ahsoka (2023) อาโซก้า พากย์ไทย S01 E01" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-%E0%B8%AD%E0%B8%B2%E0%B9%82%E0%B8%8B%E0%B8%81%E0%B9%89%E0%B8%B2-.jpg" group-title="ซีรี่ย์ Disney+ Hotstar",Ahsoka (2023) อาโซก้า พากย์ไทย S01 E01
+https://2i7.short.gy/series/ahsokaS01E01?.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen 2nd Season - มหาเวทย์ผนึกมาร ภาค 2 S02 E01" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Jujutsu Kaisen 2nd Season - มหาเวทย์ผนึกมาร ภาค 2 S012 E01
 https://agr3.short.gy/series/JujutsuS02E01.mp4
@@ -51,6 +51,8 @@ https://agr3.short.gy/series/bleach2023S02E21?.m3u8
 https://agr3.short.gy/series/bleach2023S02E22?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bleach: Thousand-Year Blood War บลีช เทพมรณะ: สงครามเลือดพันปี การแยกจาก S02 E23" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/10/Bleach-Thousand-Year-Blood-War-1.jpg" group-title="ซีรี่ย์การ์ตูน1",Bleach: Thousand-Year Blood War บลีช เทพมรณะ: สงครามเลือดพันปี การแยกจาก S02 E23
 http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/4a561719605961455cb6c0940ccab8e5/1/index-v1-a1.m3u8?s=1
+#EXTINF:-1 tvg-id="" tvg-name="Bleach: Thousand-Year Blood War บลีช เทพมรณะ: สงครามเลือดพันปี การแยกจาก S02 E24" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/10/Bleach-Thousand-Year-Blood-War-1.jpg" group-title="ซีรี่ย์การ์ตูน1",Bleach: Thousand-Year Blood War บลีช เทพมรณะ: สงครามเลือดพันปี การแยกจาก S02 E24
+http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/a3a4d3acabb1a76456a38288e2e1d12c/1/index-v1-a1.m3u8?s=1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="6ixtynin9 The Series (2023) เรื่องตลก69 เดอะซีรีส์ S01 E01" group-title=" ละครไทย1" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTt5_MySSCBRCLEc8RYG_hb6LJXYiQwzcqncGbzskpaYa6JhwZsXvettLqu&s=10",6ixtynin9 The Series (2023) เรื่องตลก69 เดอะซีรีส์ S01 E01
@@ -424,7 +426,7 @@ http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/202279.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcTJTdETIbuwDvIMZEW9uiTHkpnz-iDDV0NxVQ&usqp=CAU" group-title="ซีรี่ย์ Disney+ Hotstar",Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E01
-##http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/223244.mp4
+http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/223244.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/e4ilufN512VeAvozhkVmafnL8YI.jpg" group-title="ซีรี่ย์ Disney+ Hotstar",Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E02
 http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/223245.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/rUz3yxUpJUmjJlRIy6bZjMelFjB.jpg" group-title="ซีรี่ย์ Disney+ Hotstar",Moving - Moving (2023) ซาวด์แทร็กซ์ บรรยายไทย S01 E03
@@ -477,6 +479,7 @@ https://2i7.short.gy/series/Secret+Invasion+2023+S01E04.m3u8
 https://2i7.short.gy/series/Secret+Invasion+2023+S01E05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Secret Invasion (2023) มหันตภัยอำพราง S01 E06" group-title="ซีรี่ย์ Disney+ Hotstar" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/final-10.jpg", Secret Invasion (2023) มหันตภัยอำพราง S01 E06
 https://2i7.short.gy/series/Secret+Invasion+2023+S01E06.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="She-Hulk: Attorney at Law S01 E01" tvg-logo="https://cdns.klimg.com/kapanlagi.com/p/paging1shehulk.jpg" group-title="ซีรี่ย์ Disney+ Hotstar",She-Hulk: Attorney at Law S01 E01
 http://6395online.com:8080/series/mrpoogapooga@gmail.com/085858/177033.mp4
@@ -1755,7 +1758,7 @@ http://oneid.c1.biz/series/index.php?url=https://indy.team-indy.tech:8443/vid/ln
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E01" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E01
-https://agr3.short.gy/series/zom100dayS01E01?.mp4
+##https://agr3.short.gy/series/zom100dayS01E01?.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E02" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E02
 https://agr3.short.gy/series/zom100dayS01E02?.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E03" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E03
@@ -1763,14 +1766,13 @@ https://agr3.short.gy/series/zom100dayS01E03?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E04" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E04
 https://agr3.short.gy/series/zom100dayS01E04?.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E05" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E05
-http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/39fe8e3402c13b47cd688e1cd1cff19b/1/index-v1-a1.m3u8?s=1
-#EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E06" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/07/Zom-100-Bucket-List-of-the-Dead-100-%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E06
-http://oneid.c1.biz/series/index.php?url=https://indy.team-indy.tech:8443/vid/fFJZHTr2pl/video.mp4/playlist.m3u8
+http://oneid.c1.biz/series/index.php?url=https://kame.team-indy.tech:8443/vid/JrvZwPa8bx/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E06" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-2.jpg" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E06
+http://oneid.c1.biz/series/index.php?url=https://kame.team-indy.tech:8443/vid/2jGduX7WSD/video.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E07" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/07/Zom-100-Bucket-List-of-the-Dead-100-%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E07
 http://oneid.c1.biz/series/index.php?url=https://indy.team-indy.tech:8443/vid/X6ABPbI7oY/video.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E08" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/07/Zom-100-Bucket-List-of-the-Dead-100-%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",Zom 100: Bucket List of the Dead (2023) สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ S01 E08
 http://oneid.c1.biz/series/index.php?url=https://indy.team-indy.tech:8443/vid/jVkyETgwTG/video.mp4/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rurouni Kenshin (2023) ซามูไรพเนจร S01 E01" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/136532l.jpg" group-title="ซีรี่ย์การ์ตูน1",Rurouni Kenshin (2023) ซามูไรพเนจร S01 E01
@@ -1841,8 +1843,10 @@ http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/534
 http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/729ac989297f307e8a7814638ee5f9c0/1/index-v1-a1.m3u8?s=1
 #EXTINF:-1 tvg-id="" tvg-name="One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E182" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E182
 http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/9006e8a55b82863b9508c6f1a3bf93da/1/index-v1-a1.m3u8?s=1
-#EXTINF:-1 tvg-id="" tvg-name="One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E183" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E183
+#EXTINF:-1 tvg-id="1076" tvg-name="One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E183" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E183
 http://oneid.c1.biz/series/index.php?url=https://full.streameiei.xyz/cdn/hls/40773096068c8f8a82b0a0e584c54b09/1/index-v1-a1.m3u8?s=1
+#EXTINF:-1 tvg-id="1077" tvg-name="One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E184" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece วันพีช ซีซั่น 20 (ซับไทย) S20 E184
+http://oneid.c1.biz/series/index.php?url=https://kame.team-indy.tech:8443/vid/KRMywq8R1O/video.mp4/playlist.m3u8
 
 
 
