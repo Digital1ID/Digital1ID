@@ -171,6 +171,7 @@ https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieve
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
 
+
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20220329174418death-on-the-nile-61d2f15b690ac.jpg",Death on the Nile ฆาตกรรมบนลำน้ำไนล์ (2022)
 https://m1free.inwstream.com:1936/movie3/Death_on_the_Nile_2022/Death_on_the_Nile_2022_th_2_0_1080p_F.mp4?.m3u8
 
@@ -209,6 +210,9 @@ https://m1free.inwstream.com:1936/movie3/The_Contractor_2022/The_Contractor_2022
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20181025190843132123123123132.jpg", The Darkest Minds (2018) ดาร์กเกสท์ มายด์ส จิตทมิฬ
 https://2i7.short.gy/movie/The-Darkest-Minds-2018-th-1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20180718201356category-5-5aa5662264a87.jpg",The Hurricane Heist ปล้นเร็วฝ่าโคตรพายุ (2018)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The-Hurricane-Heist-2018/The-Hurricane-Heist-2018-th-1080p.m4v/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20171220184541MV5BMjM0MjY4MTk5NV5BMl5BanBnXkFtZTgwNDE2NTQyMzI@._V1_SY1000_CR0,0,631,1000_AL_.jpg",American Assassin อหังการ์ ทีมฆ่า (2017)
 https://m1free.inwstream.com:1936/movie3/American-Assassin-2017/American-Assassin-2017-th-1080p.mp4?.m3u8
@@ -292,6 +296,9 @@ https://2i7.short.gy/movie/Fury.mp4
 
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="",
 
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230923180418vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",Spy Kids: Armageddon พยัคฆ์จิ๋วไฮเทค: วันสิ้นโลก (2023)
+https://m1free.inwstream.com:1936/movie3/Spy_Kids_Armageddon_2023/Spy_Kids_Armageddon_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/202304021451357QKkvGgwMCvYrdkyNFgxfLESBtx.jpg",Kill Boksoon คิลบกซุน (2023)
 https://m1free.inwstream.com:1936/movie3/Kill_Boksoon_2023/Kill_Boksoon_2023_th_1080p.mp4?.m3u8
@@ -580,8 +587,42 @@ https://m1free.inwstream.com:1936/movie3/Wrong_Turn_2003/Wrong_Turn_2003_th_1080
 
 ############## ANIME ##############
 
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230923175633wnWMxwpXRFIEmwjhULNGYGg8SEM.jpg",22 vs. Earth (2021)
+https://m1free.inwstream.com:1936/movie3/22_vs_Earth_2021/22_vs_Earth_2021_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/2023091616332222oG48YszCraRJigJw5F6qFs4sR.jpg",Digimon Adventure: Last Evolution Kizuna ดิจิมอน แอดเวนเจอร์ ลาสต์ อีโวลูชั่น คิซึนะ (2020)
+https://m1free.inwstream.com:1936/movie3/Digimon_Adventure_Last_Evolution_Kizuna_2020/Digimon_Adventure_Last_Evolution_Kizuna_2020_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/202309131939276oH378KUfCEitzJkm07r97L0RsZ.jpg",Elemental เมืองอลวนธาตุอลเวง (2023)
+https://m1free.inwstream.com:1936/movie3/Elemental_2023/Elemental_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230913193747wakoF2UgsEE3fGs5KpuwMWsaNr2.jpg",Carl's Date เดตของคาร์ล (2023)
+https://m1free.inwstream.com:1936/movie3/Carl_s_Date_2023/Carl_s_Date_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230901121451nw5fZTShe0TDJnukusf2vzUS3cH.jpg",Ruby Gillman, Teenage Kraken รูบี้ สาวน้อยอสูรทะเล (2023)
+https://m1free.inwstream.com:1936/movie3/Ruby_Gillman_Teenage_Kraken_2023/Ruby_Gillman_Teenage_Kraken_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230822131040i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",The Monkey King พญาวานร (2023)
+https://m1free.inwstream.com:1936/movie3/The_Monkey_King_2023/The_Monkey_King_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230819222023lFDPyo6mdooNcHvgy17gz1GEjg4.jpg",Snoopy Presents: One-of-a-Kind Marcie (2023)
+https://m1free.inwstream.com:1936/movie3/Snoopy_Presents_One_of_a_Kind_Marcie_2023/Snoopy_Presents_One_of_a_Kind_Marcie_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230326132719pc75KETPdVnqHWCum3mFnmM0nSn.jpg",That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว เดอะมูฟวี่ สายสัมพันธ์สีชาด (2022)
+https://m1free.inwstream.com:1936/movie3/That_Time_I_Got_Reincarnated_as_a_Slime_the_Movie_Scarlet_Bond_2022/That_Time_I_Got_Reincarnated_as_a_Slime_the_Movie_Scarlet_Bond_2022_th_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/202308100148508Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Across the Spider-Verse สไปเดอร์-แมน: ผงาดข้ามจักรวาลแมงมุม (2023)
+https://m1free.inwstream.com:1936/movie3/Spider_Man_Across_the_Spider_Verse_2023/Spider_Man_Across_the_Spider_Verse_2023_th_1080.mp4?.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230723140210qayga07ICNDswm0cMJ8P3VwklFZ.jpg", Resident Evil: Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ
-https://m1free.inwstream.com:1936/movie3/Resident_Evil_Death_Island_2023/Resident_Evil_Death_Island_2023_th_1080_2ch.mp4?.m3u8
+https://m1free.inwstream.com:1936/movie3/Resident_Evil_Death_Island_2023/Resident_Evil_Death_Island_2023_th_1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230618204914gNVYqSnZ89UyTZ977SEJLze4g3X.jpg", Black Clover: Sword of the Wizard King (2023) แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์
 https://m1free.inwstream.com:1936/movie3/Black_Clover_Sword_of_the_Wizard_King_2023/Black_Clover_Sword_of_the_Wizard_King_2023_th_1080p.mp4?.m3u8
@@ -590,7 +631,7 @@ https://m1free.inwstream.com:1936/movie3/Black_Clover_Sword_of_the_Wizard_King_2
 http://rock.i234.me:8085/%E0%B8%81%E0%B8%B2%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C/The%20Super%20Mario%20Bros.%20Movie%20(2023)/The%20Super%20Mario%20Bros.%20Movie%20(2023).mkv
 
 #EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero-2022.webp", Dragon Ball Super Super Hero (2022) ดราก้อนบอล ซุปเปอร์ ซุปเปอร์ฮีโร่
-https://agr3.short.gy/movie/DBS+Super+Hero.m3u8
+https://m1free.inwstream.com:1936/movie3/Dragon_Ball_Super_Super_Hero_2022/Dragon_Ball_Super_Super_Hero_2022_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20230610185812ogDXuVkO92GcETZfSofXXemw7gb.jpg", One Piece Film: Red (2022) วันพีซ ฟิล์ม: เรด
 https://m1free.inwstream.com:1936/movie3/One_Piece_Film_Red_2022/One_Piece_Film_Red_2022_th_1080p.mp4?.m3u8
