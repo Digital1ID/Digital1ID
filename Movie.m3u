@@ -224,6 +224,9 @@ https://m1free.inwstream.com:1936/movie3/The_Contractor_2022/The_Contractor_2022
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20181025190843132123123123132.jpg", The Darkest Minds (2018) ดาร์กเกสท์ มายด์ส จิตทมิฬ
 https://2i7.short.gy/movie/The-Darkest-Minds-2018-th-1080p.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20210629083951vvs-theiceroad-vod-2.jpg",The Ice Road เหยียบระห่ำ ฝ่านรกเยือกแข็ง (2021)
+https://m1free.inwstream.com:1936/movie3/The_Ice_Road_2021/The_Ice_Road_2021_th_1080p.mp4?.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20180718201356category-5-5aa5662264a87.jpg",The Hurricane Heist ปล้นเร็วฝ่าโคตรพายุ (2018)
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The-Hurricane-Heist-2018/The-Hurricane-Heist-2018-th-1080p.m4v/playlist.m3u8
 
@@ -470,8 +473,14 @@ http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="",
 
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20221201024928swmOmm3vz3DRR7FBoJasc4LcaR1.jpg",บุพเพสันนิวาส 2 Love Destiny: The Movie (2022)
+https://m1free.inwstream.com:1936/movie3/Love_Destiny_The_Movie_2022/Love_Destiny_The_Movie_2022_th_1080p.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230804234414dyMxeSv4dBpt7eDx9ixvlm1KZBq.jpg",
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20220416134211hR2mpXMtX6BEjPK19BeB5mnoStp.jpg",แฟนฉัน My Girl (2003)
+https://m1free.inwstream.com:1936/movie3/My_Girl_2003/My_Girl_2003_th_5_1_1080p.mp4?.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230804234414dyMxeSv4dBpt7eDx9ixvlm1KZBq.jpg",บ้านเช่า บูชายัญ Home for Rent (2023)
 https://m1free.inwstream.com:1936/movie3/Home_for_Rent_2023/Home_for_Rent_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230804194238xaspbqQ6r43MPEpQWUwTYqALqOy.jpg",ขุนพันธ์ 3 Khun Pan 3 (2023)
@@ -787,8 +796,15 @@ https://m1free.inwstream.com:1936/movie2/Boruto-Naruto-the-Movie-2015/Boruto-Nar
 https://m1free.inwstream.com:1936/movie2/Gintama_The_Movie_The_Final_Chapter_Be_Forever_Yorozuya_2013/Gintama_The_Movie_The_Final_Chapter_Be_Forever_Yorozuya_2013_th_1080p.mp4?.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200502152617Star%20Trek%20Beyond%20%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%84%20%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%20(2016).jpg",Star Trek Beyond สตาร์ เทรค ข้ามขอบจักรวาล (2016)
+https://m1free.inwstream.com:1936/movie2/Star-Trek-Beyond-2016/Star-Trek-Beyond-2016-TH-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200425143148Star%20Trek%20Into%20Darkness%20%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%84%20%E0%B8%97%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%94%20(2013).jpg",Star Trek Into Darkness สตาร์ เทรค ทะยานสู่ห้วงมืด (2013)
+https://m1free.inwstream.com:1936/movie1/Star-Trek-2009-2013/Star-Trek-Into-Darkness-2013-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200424181445Star%20Trek%20%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%84%20%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%20(2009).jpg",Star Trek สตาร์ เทรค: สงครามพิฆาตจักรวาล (2009)
+https://m1free.inwstream.com:1936/movie1/Star-Trek-2009-2013/Star-Trek-2009-th-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20180425093723maze-runner-the-death-cure-5ad0953885f11.jpg",Maze Runner: The Death Cure เมซ รันเนอร์ ไข้มรณะ (2018)
 https://m1free.inwstream.com:1936/movie3/Maze-Runner-The-Death-Cure-2018/Maze-Runner-The-Death-Cure-2018-TH-1080p.mp4?.m3u8
