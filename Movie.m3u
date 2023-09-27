@@ -1,7 +1,10 @@
 #EXTM3U x-url-tvg=""
 
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="http://poid0020.trueddns.com:54330/emby/Items/672507/Images/Primary?maxHeight=1688&maxWidth=1125&tag=cc677aea2e0d7277a6100a7bf1287bb2&keepAnimation=true&quality=90",Gran Turismo GT แกร่งทะลุไมล์ (2023)
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง; บรรยายไทย" tvg-logo="http://poid0020.trueddns.com:54330/emby/Items/672507/Images/Primary?maxHeight=1688&maxWidth=1125&tag=cc677aea2e0d7277a6100a7bf1287bb2&keepAnimation=true&quality=90",Gran Turismo GT แกร่งทะลุไมล์ (2023)
 http://poid0020.trueddns.com:54330/emby/videos/672507/stream.mkv?api_key=c2518d72686846cb81bf5c78ef539ca4&Static=true&MediaSourceId=b44aa5ba44a5ba27078c533a8093a65b
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230927001403adwqdwqdwq.jpg",The Nun 2 เดอะ นัน 2 (2023)
+https://m1free.inwstream.com:1936/movie3/The_Nun_2_2023/The_Nun_2_2023_thr_v1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230922230720cqwerrttt.jpg",Expend4bles โคตรคนทีมมหากาฬ 4 (2023)
 https://m1free.inwstream.com:1936/movie3/Expend4bles_2023/Expend4bles_2023_thr_v1.mp4?.m3u8
