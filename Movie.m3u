@@ -498,12 +498,15 @@ http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="",
 
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20210616062928qFSQLl3HNAXcpjadUmPxRwQykq5.jpg",หลวงพี่กะอีปอบ (2020)
+https://m1free.inwstream.com:1936/movie3/The_Ghoul_Horror_At_The_Howling_Field_2020/The_Ghoul_Horror_At_The_Howling_Field_2020_th_1080p.mp4?.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20221201024928swmOmm3vz3DRR7FBoJasc4LcaR1.jpg",บุพเพสันนิวาส 2 Love Destiny: The Movie (2022)
 https://m1free.inwstream.com:1936/movie3/Love_Destiny_The_Movie_2022/Love_Destiny_The_Movie_2022_th_1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20220416134211hR2mpXMtX6BEjPK19BeB5mnoStp.jpg",แฟนฉัน My Girl (2003)
 https://m1free.inwstream.com:1936/movie3/My_Girl_2003/My_Girl_2003_th_5_1_1080p.mp4?.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230804234414dyMxeSv4dBpt7eDx9ixvlm1KZBq.jpg",บ้านเช่า บูชายัญ Home for Rent (2023)
 https://m1free.inwstream.com:1936/movie3/Home_for_Rent_2023/Home_for_Rent_2023_th_1080.mp4?.m3u8
@@ -522,6 +525,12 @@ https://m1free.inwstream.com:1936/movie3/Wish_Me_Luck_2023/Wish_Me_Luck_2023_th_
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcSrrwWmO-22Rdn_Z1bugFtXkx7HNsX-F5DCoA&usqp=CAU", คฤหาสน์ผีปอบ (2023)
 https://2i7.short.gy/movie/poptrueid.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20180724214415unnamed.jpg",หลวงพี่เเจ๊ส 5G (2018)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Luang-Pee-Jazz-5G-2018/Luang-Pee-Jazz-5G-2018-th-480p-FWHQ.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200127145217Luang%20Pee%20Jazz%204G%20%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%88%E0%B9%8A%E0%B8%AA%204G%20(2016).jpg",หลวงพี่แจ๊ส 4G (2016)
+https://m1free.inwstream.com:1936/movie2/Luang-Pee-Jazz-4G-2016/Luang-Pee-Jazz-4G-2016-th-480p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20230608133244thumb_2643.jpg", อินดี้ลูกอิสาน (2019)
 https://m1free.inwstream.com:1936/movie3/Indie_Look_Esan_2019/Indie_Look_Esan_2019_th_1080p.mp4?.m3u8
