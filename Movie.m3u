@@ -7,13 +7,13 @@ http://oneid.c1.biz/movie/index.php?url=
 ##http://poid0020.trueddns.com:54330/emby/videos/672507/stream.mkv?api_key=c2518d72686846cb81bf5c78ef539ca4&Static=true&MediaSourceId=b44aa5ba44a5ba27078c533a8093a65b
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214908cscwqewqewq.jpg",The Creator (2023) เดอะ ครีเอเตอร์
-https://m1free.inwstream.com:1936/movie3/The_Creator_2023/The_Creator_2023_thr_v1.mp4?.m3u8
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The_Creator_2023/The_Creator_2023_thr_v1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214405cscscsc.jpg",Saw X (2023) ชำแหละแค้น…เกมตัดตาย
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Saw_X_2023/Saw_X_2023_thr_v1.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231003213928b47syIl3wreScfUSrCKb0D2d1Gg.jpg",Gran Turismo GT แกร่งทะลุไมล์ (2023)
 https://m1free.inwstream.com:1936/movie3/Gran_Turismo_2023/Gran_Turismo_2023_th_1080_2.mp4?.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214405cscscsc.jpg",Saw X (2023) ชำแหละแค้น…เกมตัดตาย
-https://m1free.inwstream.com:1936/movie3/Saw_X_2023/Saw_X_2023_thr_v1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230927001403adwqdwqdwq.jpg",The Nun 2 เดอะ นัน 2 (2023)
 https://m1free.inwstream.com:1936/movie3/The_Nun_2_2023/The_Nun_2_2023_thr_v1.mp4?.m3u8
