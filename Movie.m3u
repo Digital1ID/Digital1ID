@@ -9,6 +9,9 @@ http://oneid.c1.biz/movie/index.php?url=
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231003213559mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",Blue Beetle บลู บีเทิล (2023)
 https://m1free.inwstream.com:1936/movie3/Blue_Beetle_2023/Blue_Beetle_2023_th_1080_2.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="http://poid0020.trueddns.com:54330/emby/Items/712988/Images/Primary?maxHeight=1688&maxWidth=1125&tag=b46908880fc5f3992ccc5c97d15a4059&keepAnimation=true&quality=90",The Nun 2 เดอะ นัน 2 (2023)
+http://poid0020.trueddns.com:54330/emby/videos/712988/stream.mkv?api_key=c2518d72686846cb81bf5c78ef539ca4&Static=true&MediaSourceId=1652f83937294e4a26ecfbf29a2332aa
+
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231003213928b47syIl3wreScfUSrCKb0D2d1Gg.jpg",Gran Turismo GT แกร่งทะลุไมล์ (2023)
 https://m1free.inwstream.com:1936/movie3/Gran_Turismo_2023/Gran_Turismo_2023_th_1080_2.mp4?.m3u8
 
@@ -17,9 +20,6 @@ http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214405cscscsc.jpg",Saw X (2023) ชำแหละแค้น…เกมตัดตาย
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Saw_X_2023/Saw_X_2023_thr_v1.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230927001403adwqdwqdwq.jpg",The Nun 2 เดอะ นัน 2 (2023)
-https://m1free.inwstream.com:1936/movie3/The_Nun_2_2023/The_Nun_2_2023_thr_v1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20181208102103132165156.jpg",The Nun เดอะ นัน (2018)
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The-Nun-2018/The-Nun-2018-th-1080p.m4v/playlist.m3u8
