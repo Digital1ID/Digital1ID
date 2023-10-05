@@ -6,6 +6,12 @@ http://oneid.c1.biz/movie/index.php?url=
 #EXTINF:-1 tvg-id="" group-title="หนังแนะนำ" tvg-logo="http://poid0020.trueddns.com:54330/emby/Items/672507/Images/Primary?maxHeight=1688&maxWidth=1125&tag=cc677aea2e0d7277a6100a7bf1287bb2&keepAnimation=true&quality=90",Gran Turismo GT แกร่งทะลุไมล์ (2023)
 ##http://poid0020.trueddns.com:54330/emby/videos/672507/stream.mkv?api_key=c2518d72686846cb81bf5c78ef539ca4&Static=true&MediaSourceId=b44aa5ba44a5ba27078c533a8093a65b
 
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="http://203.159.94.78:8096/emby/Items/153028/Images/Primary?maxHeight=1688&maxWidth=1125&tag=e84ce9883992b5a11b5faf777b4bef17&quality=90",Expend4bles โคตรคนทีมมหากาฬ 4 (2023)
+http://203.159.94.78:8096/emby/videos/153028/stream.mkv?DeviceId=c24eef10-bd20-4894-85dc-0628b9b13434&MediaSourceId=2c47733439a67d02f01ef37f6175d86e&Static=true&PlaySessionId=fc5acf29692a4dfdb4baafe94c2f9c80&api_key=d3e1566e5cad4d96812b44bc66cdc97a#t=428.825236
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="http://203.159.94.78:8096/emby/Items/153495/Images/Primary?maxHeight=1688&maxWidth=1125&tag=5c13ee15d892d9cf48ccf98f4ff7df8c&quality=90", MISSION IMPOSSIBLE 7 DEAD RECKONING PART ONE (2023) มิชชั่น อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง
+http://203.159.94.78:8096/emby/videos/153495/stream.mkv?DeviceId=c24eef10-bd20-4894-85dc-0628b9b13434&MediaSourceId=7db32df7148cd7b65bc707cf7d7db9be&Static=true&PlaySessionId=f578de4c9efb4f188d9203b4ed06b221&api_key=d3e1566e5cad4d96812b44bc66cdc97a
+
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231003213559mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",Blue Beetle บลู บีเทิล (2023)
 https://m1free.inwstream.com:1936/movie3/Blue_Beetle_2023/Blue_Beetle_2023_th_1080_2.mp4?.m3u8
 
@@ -23,9 +29,6 @@ http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3
 
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20181208102103132165156.jpg",The Nun เดอะ นัน (2018)
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The-Nun-2018/The-Nun-2018-th-1080p.m4v/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230922230720cqwerrttt.jpg",Expend4bles โคตรคนทีมมหากาฬ 4 (2023)
-https://m1free.inwstream.com:1936/movie3/Expend4bles_2023/Expend4bles_2023_thr_v1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",A HAUNTING IN VENICE (2023) ฆาตกรรมหลอนแห่งนครเวนิส
 http://oneid.c1.biz/movie/index.php?url=https://hlsp2p.com/view/06bda1c9-bce3-57da-a6b3-8ac685acb2d0.m3u8
@@ -125,9 +128,6 @@ https://m1free.inwstream.com:1936/movie3/Plane_2023/Plane_2023_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230722171214cascsacsac.jpg", Oppenheimer (2023) ออพเพนไฮเมอร์
 https://m1free.inwstream.com:1936/movie3/Oppenheimer_2023/Oppenheimer_2023_thr_v1.mp4?.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230714045851csacascasc.jpg", MISSION IMPOSSIBLE 7 DEAD RECKONING PART ONE (2023) มิชชั่น อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง
-https://m1free.inwstream.com:1936/movie3/Mission_Impossible_Dead_Reckoning_Part_One_2023/Mission_Impossible_Dead_Reckoning_Part_One_2023_thr_v1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/07/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-170x250.jpg", MISSION IMPOSSIBLE 7 DEAD RECKONING PART ONE (2023) มิชชั่น อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง
 http://rock.i234.me:8085/Movie3/Mission%20Impossible-Dead%20Reckoning%20Part%20One%20(2023)_GOLD%20CUP.mkv
