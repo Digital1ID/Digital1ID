@@ -15,8 +15,8 @@ http://203.159.94.78:8096/emby/videos/153495/stream.mkv?DeviceId=c24eef10-bd20-4
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231003213559mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",Blue Beetle บลู บีเทิล (2023)
 https://m1free.inwstream.com:1936/movie3/Blue_Beetle_2023/Blue_Beetle_2023_th_1080_2.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="http://poid0020.trueddns.com:54330/emby/Items/712988/Images/Primary?maxHeight=1688&maxWidth=1125&tag=b46908880fc5f3992ccc5c97d15a4059&keepAnimation=true&quality=90",The Nun 2 เดอะ นัน 2 (2023)
-http://203.159.94.78:8096/emby/videos/154588/stream.mkv?DeviceId=c24eef10-bd20-4894-85dc-0628b9b13434&MediaSourceId=7cacd7e3bba41b98b1847da477683ea5&Static=true&PlaySessionId=0cef099a472241a594e1db8e1137c6b0&api_key=d3e1566e5cad4d96812b44bc66cdc97a
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="http://poid0020.trueddns.com:54330/emby/Items/712988/Images/Primary?maxHeight=1688&maxWidth=1125&tag=b46908880fc5f3992ccc5c97d15a4059&keepAnimation=true&quality=90",The Nun 2 เดอะ นัน 2
+http://poid0020.trueddns.com:54330/emby/videos/712988/stream.mkv?api_key=c2518d72686846cb81bf5c78ef539ca4&Static=true&MediaSourceId=1652f83937294e4a26ecfbf29a2332aa
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231003213928b47syIl3wreScfUSrCKb0D2d1Gg.jpg",Gran Turismo GT แกร่งทะลุไมล์ (2023)
 https://m1free.inwstream.com:1936/movie3/Gran_Turismo_2023/Gran_Turismo_2023_th_1080_2.mp4?.m3u8
