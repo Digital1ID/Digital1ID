@@ -4,8 +4,17 @@
 http://oneid.c1.biz/movie/index.php?url=
 
 
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/04/Ballerina-2023.jpg",
+http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/f3e67528-733f-41ea-bb2f-eea57301443d/0
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/04/Kitty-the-Killer-2023.jpg",Kitty the Killer (2023) อีหนูอันตราย
+http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/fed6dbb0-c5f5-4a92-b08b-54b947543dc4/0
+
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231006205434pFue9TLZVdXjGiZ8cOpDjllhbKk.jpg",Haunted Mansion บ้านชวนเฮี้ยนผีชวนฮา (2023)
 https://m1free.inwstream.com:1936/movie3/Haunted_Mansion_2023/Haunted_Mansion_2023_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/04/Totally-Killer-2023.jpg",TOTALLY KILLER (2023) ย้อนเวลาหาฆาตกร
+http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/cb1f9131-e22b-4f8d-ae56-b566ab2fb26f/0
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",DORAEMON: NOBITA’S SKY UTOPIA (2023) โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ
 http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/a56a823a-0ead-4e20-91cb-d058394014f8/0
@@ -153,10 +162,6 @@ https://m1free.inwstream.com:1936/movie3/The_Boogeyman_2023/The_Boogeyman_2023_t
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023.webp", Operation Fortune: Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
 https://m1free.inwstream.com:1936/movie3/Operation_Fortune_Ruse_de_Guerre_2023/Operation_Fortune_Ruse_de_Guerre_2023_thr_z1.mp4?.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-2022-%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%8B%E0%B8%B5%E0%B8%9F-%E0%B8%AA%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%82%E0%B8%8B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B9%82%E0%B8%A8%E0%B8%81.jpg", Sword Art Online the Movie: Progressive - Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก
-https://m1free.inwstream.com:1936/movie3/Sword_Art_Online_the_Movie_Progressive_Scherzo_of_Deep_Night_2022/Sword_Art_Online_the_Movie_Progressive_Scherzo_of_Deep_Night_2022_thr_z1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230315233610rxDPzExeovcBZY2IVWdYs87AzVE.jpg",M3GAN เมแกน (2022)
 https://m1free.inwstream.com:1936/movie3/M3GAN_2022/M3GAN_2022_thr_z1.mp4?.m3u8
