@@ -940,6 +940,11 @@ https://m1free.inwstream.com:1936/movie2/Gintama_The_Movie_The_Final_Chapter_Be_
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="",
 
 
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20191003070913sherlock-holmes-a-game-of-shadows-5d447918b22fc.jpg",Sherlock Holmes: A Game of Shadows เชอร์ล็อค โฮล์มส์ เกมพญายมเงามรณะ (2011)
+https://m1free.inwstream.com:1936/movie3/Sherlock_Holmes_A_Game_of_Shadows_2011/Sherlock_Holmes_A_Game_of_Shadows_2011_TH_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20191003071516sherlock-holmes-57228423b0939.jpg",Sherlock Holmes เชอร์ล็อค โฮล์มส์ ดับแผนพิฆาตโลก (2009)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Sherlock_Holms_2009/Sherlock_Holms_2009_TH_1080p.m4v/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200502152617Star%20Trek%20Beyond%20%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%84%20%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%20(2016).jpg",Star Trek Beyond สตาร์ เทรค ข้ามขอบจักรวาล (2016)
 https://m1free.inwstream.com:1936/movie2/Star-Trek-Beyond-2016/Star-Trek-Beyond-2016-TH-1080p.mp4?.m3u8
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200425143148Star%20Trek%20Into%20Darkness%20%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%84%20%E0%B8%97%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%94%20(2013).jpg",Star Trek Into Darkness สตาร์ เทรค ทะยานสู่ห้วงมืด (2013)
@@ -1277,8 +1282,14 @@ https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%201-2/Fantastic%20Four
 #EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200322233243Fantastic%20Four%201%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%20%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%84%20%E0%B9%82%E0%B8%9F%E0%B8%A3%E0%B9%8C(2005).jpg",Fantastic Four สี่พลังคนกายสิทธิ์ (2005)
 https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%201-2/Fantastic%20Four%201%20(2005)%20th%201080p%20fw.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200330213521Spider%20Man%203%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2007).jpg",Spider Man 3: ไอ้แมงมุม (2007)
+https://m1free.inwstream.com:1936/movie1/Spider-Man-2002-2007/Spider-Man-3-2007-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200330214132Spider%20Man%202%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2004).jpg",Spider Man 2: ไอ้แมงมุม (2004)
+https://m1free.inwstream.com:1936/movie1/Spider-Man-2002-2007/Spider-Man-2-2004-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="https://img.inwiptv.net/postor/20200330214708Spider%20Man%201%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2002).jpg",Spider Man 1: ไอ้แมงมุม (2002)
+https://m1free.inwstream.com:1936/movie1/Spider-Man-2002-2007/Spider-Man-2002-th-1080p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
 
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018) เดดพูล 2" tvg-logo="https://img.inwiptv.net/postor/20180912145554123132456465.jpg" group-title="จักรวาล MARVEL", Deadpool 2 (2018) เดดพูล 2
 https://2i7.short.gy/movie/Deadpool-2-2018-th-1080p-HQ.m3u8
