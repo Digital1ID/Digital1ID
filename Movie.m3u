@@ -196,6 +196,8 @@ https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_thr_v1.mp4?.m3u
 
 ############## MASTER ##############
 
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230421224526liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/Ghosted_2023/Ghosted_2023_st_1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230728133859fiVW06jE7z9YnO4trhaMEdclSiC.jpg", Fast X (2023) เร็ว...แรง ทะลุนรก 10
 https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4?.m3u8
@@ -219,8 +221,11 @@ https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieve
 https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fury_of_the_Gods_2023_th_1080p.mp4?.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20170328203321b6293b14bd2629134ebc97f37500222f.jpg",Patriots Day วินาศกรรมปิดเมือง (2016)
+https://m1free.inwstream.com:1936/movie2/Patriots-Day-2016/Patriots-Day-2016-TH-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20201205201020s5jxwhLPGI4Xow8GXwenzL1MkwF.jpg",Tenet เทเน็ท (2020) IMAX Version
 https://m1free.inwstream.com:1936/movie3/Tenet_2020/Tenet_2020_th_1080p_FW.mp4?.m3u8
@@ -394,6 +399,7 @@ https://2i7.short.gy/movie/Fury.mp4
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200923075059dune-545ac3337ceca.jpg",Dune ดูน สงครามล้างเผ่าพันธุ์จักรวาล (1984)
 https://m1free.inwstream.com:1936/movie3/Dune_1984/Dune_1984_TH_Extended_1080p.mp4?.m3u8
+
 
 ############## NETFLIX ##############
 
@@ -782,6 +788,11 @@ http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie2
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20201105201640the-devil-inside-540f1530b7bf2.jpg",The Devil Inside สืบสยอง หลอนอำมหิต (2012)
 https://m1free.inwstream.com:1936/movie3/The_Devil_Inside_2012/The_Devil_Inside_2012_TH_1080p.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20191203090511it-chapter-2-5d544b6877ae1.jpg",It Chapter Two อิท โผล่จากนรก 2 (2019)
+https://m1free.inwstream.com:1936/movie3/It_Chapter_Two_2019/It_Chapter_Two_2019_TH_1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20171228001237MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SY1000_CR0,0,666,1000_AL_.jpg",It อิท โผล่จากนรก (2017)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/It-2017/It-2017-th-1080p-fw.m4v/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20180405061912insidious-chapter-4-5ab1a21c80787%20(1).jpg", Insidious: The Last Key วิญญาณตามติด: กุญแจผีบอก (2018)
 https://m1free.inwstream.com:1936/movie3/Insidious-The-Last-Key-2018/Insidious-The-Last-Key-2018-TH-1080p.mp4?.m3u8
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200520141305Insidious%20Chapter%203%20%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%203%20(2015).jpg", Insidious: Chapter 3 วิญญาณตามติด 3 (2015)
@@ -797,7 +808,6 @@ http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3
 https://m1free.inwstream.com:1936/movie3/The_Last_Exorcism_2010/The_Last_Exorcism_2010_TH_1080p.mp4?.m3u8
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200507134417The%20Exorcism%20of%20Emily%20Rose%20%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%9B%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%20(2005).jpg",The Exorcism of Emily Rose พลิกปมอาถรรพ์สยองโลก (2005)
 https://m1free.inwstream.com:1936/movie1/The-Exorcism-of-Emily-Rose-2005-Unrated/The-Exorcism-of-Emily-Rose-2005-Unrated-TH-1080p.mp4?.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/2022050622523793sSMqj9z8bmXzLM4HJfzbQEOhI.jpg",Spiral: From the Book of Saw เกม-ลอก อำมหิต (2021)
 https://m1free.inwstream.com:1936/movie3/Spiral_From_the_Book_of_Saw_2021/Spiral_From_the_Book_of_Saw_2021_th_5_1_1080p.mp4?.m3u8
@@ -939,6 +949,15 @@ https://m1free.inwstream.com:1936/movie2/Gintama_The_Movie_The_Final_Chapter_Be_
 
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="",
 
+
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20220106095327ghostbusters-afterlife-6152b2d1069b3.jpg",Ghostbusters: Afterlife โกสต์บัสเตอร์: ปลุกพลังล่าท้าผี (2021)
+https://m1free.inwstream.com:1936/movie3/Ghostbusters_Afterlife_2021/Ghostbusters_Afterlife_2021_th_1080p_F.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20200428175535Ghostbusters%20%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%E0%B8%81%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%9C%E0%B8%B5%203%20(2016).jpg",Ghostbusters บริษัทกำจัดผี 3 (2016)
+https://m1free.inwstream.com:1936/movie2/Ghostbusters-2016/Ghostbusters-2016-TH-1080p-BD.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20221104113639ghostbusters-ii-58f38cb38182b.jpg",Ghostbusters 2 บริษัทกำจัดผี 2 (1989)
+https://m1free.inwstream.com:1936/movie2/Ghostbusters-2-1989/Ghostbusters-2-1989-th-1080p.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20221104113620ghostbusters-5501d147941dd.jpg",Ghostbusters บริษัทกำจัดผี (1984)
+https://m1free.inwstream.com:1936/movie2/Ghostbusters-1984/Ghostbusters-1984-th-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังภาคต่อ" tvg-logo="https://img.inwiptv.net/postor/20191003070913sherlock-holmes-a-game-of-shadows-5d447918b22fc.jpg",Sherlock Holmes: A Game of Shadows เชอร์ล็อค โฮล์มส์ เกมพญายมเงามรณะ (2011)
 https://m1free.inwstream.com:1936/movie3/Sherlock_Holmes_A_Game_of_Shadows_2011/Sherlock_Holmes_A_Game_of_Shadows_2011_TH_1080p.mp4?.m3u8
