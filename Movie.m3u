@@ -1646,7 +1646,7 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
 
 
-#EXTM3U x-url-tvg=""
+#EXT##M3U x-url-tvg=""
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="",
 http://oneid.c1.biz/movie/index.php?url=
@@ -2464,7 +2464,7 @@ https://m1free.inwstream.com:1936/movie3/Hellbender_2021/Hellbender_2021_st_1080
 https://m1free.inwstream.com:1936/movie3/Achoura_2018/Achoura_2018_th_1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20190612192425cadaver-5bffc883a745b.jpg", The Possession of Hannah Grace (2018) ห้องเก็บศพ
-https://m1free.inwstream.com:1936/movie3/The-Possession-of-Hannah-Grace-2018/The-Possession-of-Hannah-Grace-2018-th-1080p.m4v?.m3u8
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The-Possession-of-Hannah-Grace-2018/The-Possession-of-Hannah-Grace-2018-th-1080p.m4v/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20200511163937World%20War%20Z%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%20Z%20(2013).jpg", World War Z (2013) มหาวิบัติสงคราม Z
 https://m1free.inwstream.com:1936/movie1/World-War-Z-2013/World-War-Z-2013-TH-1080p.mp4?.m3u8
