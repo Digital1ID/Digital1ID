@@ -4,6 +4,9 @@
 http://oneid.c1.biz/index.php?url=
 
 
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://nung2uhd.com/wp-content/uploads/2023/10/Ghost-Rookie.webp",ผีมือใหม่ Ghost Rookie (2023)
+http://oneid.c1.biz/movie/index.php?url=https://master1.geoff-nt.xyz/PlayList/6531eff4e56e2Rop/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023.jpg", Where the Wind Blows (2023) คู่พายุเดือด
 http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/ef4fa523-b535-434b-b33f-04501bb11932/0
 
@@ -18,6 +21,9 @@ http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/a4b5e5c8-95
 
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023.jpg",THE DEVIL ON TRIAL (2023) พิพากษาปีศาจ
 http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/7547eb6d-b048-4289-b6ae-a3f916288443/0
+
+#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214405cscscsc.jpg",Saw X (2023) ชำแหละแค้น…เกมตัดตาย
+https://m1free.inwstream.com:1936/movie3/Saw_X_2023/Saw_X_2023_thr_z1.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231016153557cascsacascasc.jpg",PAW Patrol: The Mighty Movie ขบวนการเจ้าตูบสี่ขา: เดอะ ไมตี้ มูฟวี่ (2023)
 https://m1free.inwstream.com:1936/movie3/PAW_Patrol_The_Mighty_Movie_2023/PAW_Patrol_The_Mighty_Movie_2023_thr_v1.mp4?.m3u8
@@ -84,9 +90,6 @@ https://m1free.inwstream.com:1936/movie3/Gran_Turismo_2023/Gran_Turismo_2023_th_
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214908cscwqewqewq.jpg",The Creator (2023) เดอะ ครีเอเตอร์
 https://m1free.inwstream.com:1936/movie3/The_Creator_2023/The_Creator_2023_thr_v1.mp4?.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214405cscscsc.jpg",Saw X (2023) ชำแหละแค้น…เกมตัดตาย
-http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Saw_X_2023/Saw_X_2023_thr_v1.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="สยองขวัญ" tvg-logo="https://img.inwiptv.net/postor/20181208102103132165156.jpg",The Nun เดอะ นัน (2018)
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/The-Nun-2018/The-Nun-2018-th-1080p.m4v/playlist.m3u8
