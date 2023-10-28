@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="",
 http://oneid.c1.biz/index.php?url=
 
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20231028104417zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg",Sister Death ซิสเตอร์เดท (2023) NETFLIX
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Sister_Death_2023/Sister_Death_2023_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://nung2uhd.com/wp-content/uploads/2023/10/Ghost-Rookie.webp",ผีมือใหม่ Ghost Rookie (2023)
 https://m1free.inwstream.com:1936/movie3/Ghost_Rookie_2023/Ghost_Rookie_2023_th_1080.mp4?.m3u8
@@ -19,7 +21,7 @@ http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/cd616c0c-1d
 #EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/06/The-Equalizer-2023.jpg",The Equalizer 3 มัจจุราชไร้เงา 3 (2023)
 http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/a4b5e5c8-956d-492f-805e-773f8e9c9e07/0
 
-#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023.jpg",THE DEVIL ON TRIAL (2023) พิพากษาปีศาจ
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023.jpg",THE DEVIL ON TRIAL (2023) พิพากษาปีศาจ NETFLIX
 http://oneid.c1.biz/movie/index.php?url=https://play.kakjeawplay.xyz/7547eb6d-b048-4289-b6ae-a3f916288443/0
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231003214405cscscsc.jpg",Saw X (2023) ชำแหละแค้น…เกมตัดตาย
