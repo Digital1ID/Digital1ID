@@ -3,8 +3,13 @@
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="",
 http://oneid.c1.biz/index.php?url=
 
+
+
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20231028104417zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg",Sister Death ซิสเตอร์เดท (2023) NETFLIX
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Sister_Death_2023/Sister_Death_2023_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20231028103602m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg",Pain Hustlers (2023) NETFLIX
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Pain_Hustlers_2023/Pain_Hustlers_2023_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://nung2uhd.com/wp-content/uploads/2023/10/Ghost-Rookie.webp",ผีมือใหม่ Ghost Rookie (2023)
 https://m1free.inwstream.com:1936/movie3/Ghost_Rookie_2023/Ghost_Rookie_2023_th_1080.mp4?.m3u8
@@ -243,6 +248,15 @@ https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fur
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
 
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20190813082423dead-man-down-532ea9ca03a5b.jpg",Dead Man Down แค้นได้ตายไม่เป็น (2013)
+https://m1free.inwstream.com:1936/movie3/Dead_Man_Down_2013/Dead_Man_Down_2013_TH_1080p.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20170615093113priest_br_001.jpg",Priest นักบุญปีศาจ (2011)
+https://m1free.inwstream.com:1936/movie3/Priest-2011/Priest-2011-TH-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcQ_yUL_f1RSZAsjPnEZeyCyNv_IQCljCeO52w&usqp=CAU",Knight and Day โคตรคนพยัคฆ์ร้ายกับหวานใจมหาประลัย (2010)
 https://m1free.inwstream.com:1936/movie1/Knight-and-Day-2010/Knight-and-Day-2010-TH-1080p.mp4?.m3u8
