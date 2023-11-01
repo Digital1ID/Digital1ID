@@ -2,8 +2,18 @@
 
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="",
 http://oneid.c1.biz/index.php?url=
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="",
+http://oneid.c1.biz/index.php?url=
 
 
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20231027113655pTuJyhErW6MtwpitAgYytOdiFj.jpg",ลอง ลีฟ เลิฟว์ Long Live Love! (2023)
+http://oneid.c1.biz/index.php?url=https://m1free.inwstream.com:1936/movie3/Long_Live_Love_2023/Long_Live_Love_2023_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231101154423upkbCcOx3gSUNmAkeH3bCBq7M5j.jpg",A Haunting in Venice ฆาตกรรมหลอนแห่งนครเวนิส (2023)
+http://oneid.c1.biz/index.php?url=https://m1free.inwstream.com:1936/movie3/A_Haunting_in_Venice_2023/A_Haunting_in_Venice_2023_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20230315233610rxDPzExeovcBZY2IVWdYs87AzVE.jpg",M3GAN เมแกน (2022)
+http://oneid.c1.biz/index.php?url=https://m1free.inwstream.com:1936/movie3/M3GAN_2022/M3GAN_2022_th_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20231028104417zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg",Sister Death ซิสเตอร์เดท (2023) NETFLIX
 http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie3/Sister_Death_2023/Sister_Death_2023_th_1080.mp4/playlist.m3u8
@@ -212,9 +222,6 @@ https://m1free.inwstream.com:1936/movie3/The_Boogeyman_2023/The_Boogeyman_2023_t
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023.webp", Operation Fortune: Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
 https://m1free.inwstream.com:1936/movie3/Operation_Fortune_Ruse_de_Guerre_2023/Operation_Fortune_Ruse_de_Guerre_2023_thr_z1.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230315233610rxDPzExeovcBZY2IVWdYs87AzVE.jpg",M3GAN เมแกน (2022)
-https://m1free.inwstream.com:1936/movie3/M3GAN_2022/M3GAN_2022_thr_z1.mp4?.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20230704042706uWzDZ7MDACrPm8xlPHQPKqF4TyT.jpg", Suzume (2022) การผนึกประตูของซุซุเมะ
 https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_thr_v1.mp4?.m3u8
 
@@ -249,8 +256,14 @@ https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fur
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
 
 
-#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="",
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200413161430The%20Italian%20Job%20%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%20%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%20(2003).jpg",The Italian Job ปล้นซ้อนปล้น พลิกถนนล่า (2003)
+https://m1free.inwstream.com:1936/movie2/The%20Italian%20Job%20(2003)/The%20Italian%20Job%20(2003)%20th%201080p%20fw.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200413143406Snowpiercer%20%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%20(2013).jpg",Snowpiercer ยึดด่วน วันสิ้นโลก (2013)
+https://m1free.inwstream.com:1936/movie2/Snowpiercer%20(2013)/Snowpiercer%20(2013)%20th%201080p%20fw.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200507134640Pompeii%20%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%9B%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%B5%20(2014).jpg",Pompeii ไฟนรกถล่มปอมเปอี (2014)
+https://m1free.inwstream.com:1936/movie2/Pompeii-2014/Pompeii-2014-th-1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20190813082423dead-man-down-532ea9ca03a5b.jpg",Dead Man Down แค้นได้ตายไม่เป็น (2013)
 https://m1free.inwstream.com:1936/movie3/Dead_Man_Down_2013/Dead_Man_Down_2013_TH_1080p.mp4?.m3u8
@@ -461,8 +474,11 @@ https://m1free.inwstream.com:1936/movie3/Heart_of_Stone_2023/Heart_of_Stone_2023
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230804231646kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg",Zom 100: Bucket List of the Dead ซอม 100 - 100 สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ (2023)
 https://m1free.inwstream.com:1936/movie3/Zom_100_Bucket_List_of_the_Dead_2023/Zom_100_Bucket_List_of_the_Dead_2023_th_1080.mp4?.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="",
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20211030093155army-of-thieves.224557.jpg",Army of Thieves แผนปล้นยุโรปเดือด (2021) NETFLIX
+https://m1free.inwstream.com:1936/movie3/Army_of_Thieves_2021/Army_of_Thieves_2021_TH_1080p_NF.mp4?.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20210521161546x3taBaWfRzw1NIKhEPpKPwKBAOC.jpg",Army of the Dead แผนปล้นซอมบี้เดือด (2021) NETFLIX
+https://m1free.inwstream.com:1936/movie3/Army_of_the_Dead_2021/Army_of_the_Dead_2021_th_1080p.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NETFLIX" tvg-logo="https://img.inwiptv.net/postor/20230723143033hnzXoDaK346U4ByfvQenu2DZnTg.jpg", They Cloned Tyrone (2023) โคลนนิงลวง ลับ ล่อ
 https://m1free.inwstream.com:1936/movie3/They_Cloned_Tyrone_2023/They_Cloned_Tyrone_2023_th_1080_NF.mp4?.m3u8
@@ -632,6 +648,18 @@ https://m1free.inwstream.com:1936/movie1/Future-Cops-1993/Future-Cops-1993-TH-48
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="",
 
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20200111153559Coming%20Soon%20%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AD%E0%B8%B2%E0%B8%86%E0%B8%B2%E0%B8%95.jpg",Coming Soon โปรแกรมหน้า วิญญาณอาฆาต (2008)
+http://oneid.c1.biz/movie/index.php?url=https://m1free.inwstream.com:1936/movie1/coming_soon/coming_soon-th-1080p-fwtv.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20231026172028sqkKvZ08feB8XLrELZuvOhsYL5L.jpg",ตีสาม AFTER SHOCK 3 AM: Part 3 (2018)
+https://m1free.inwstream.com:1936/movie3/3_AM_Part_3_2018/3_AM_Part_3_2018_th_1080.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20231026170311le2RpP4D9WGo5B5ZhUj3NrhlKS0.jpg",ตีสาม คืนสาม 3D 3 A.M. Part 2 (2014)
+https://m1free.inwstream.com:1936/movie3/3_A_M_Part_2_2014/3_A_M_Part_2_2014_th_1080.mp4?.m3u8
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20231026165833bAdJKC34UtRxQRhUsm7Uwru2kWP.jpg",ตีสาม 3D 3 A.M. 3D (2012)
+https://m1free.inwstream.com:1936/movie3/3_A_M_3D_2012/3_A_M_3D_2012_th_1080.mp4?.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20231022033440MV5BZTMxYjAwZWUtYWFlMy00ZTdjLWI2ZDMtNDgzMWQ0NTJlNzI2XkEyXkFqcGdeQXVyNTE4NDk0NQ@@._V1_FMjpg_UX1000_.jpg",นางตะเคียน Takien: The Haunted Tree (2010)
+https://m1free.inwstream.com:1936/movie3/Takien_The_Haunted_Tree_2010/Takien_The_Haunted_Tree_2010_th_1080.mp4?.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20210616062928qFSQLl3HNAXcpjadUmPxRwQykq5.jpg",หลวงพี่กะอีปอบ (2020)
 https://m1free.inwstream.com:1936/movie3/The_Ghoul_Horror_At_The_Howling_Field_2020/The_Ghoul_Horror_At_The_Howling_Field_2020_th_1080p.mp4?.m3u8
