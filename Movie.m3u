@@ -1,7 +1,6 @@
 #EXTM3U x-url-tvg=""
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="",
-http://oneid.c1.biz/index.php?url=
 
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="หนังไทย" tvg-logo="https://img.inwiptv.net/postor/20231027113655pTuJyhErW6MtwpitAgYytOdiFj.jpg",ลอง ลีฟ เลิฟว์ Long Live Love! (2023)
@@ -528,6 +527,14 @@ https://m1free.inwstream.com:1936/movie3/Tin_And_Tina_2023/Tin_And_Tina_2023_th_
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="",
 
+#EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4476/20230901120306Jlsb.jpg",Sakra แปดเทพอสูรมังกรฟ้า เฉียวฟง จอมยุทธไร้พ่าย (2023)
+https://movie.server-cdn-streaming.com/api/uploads/movie/4476/video/13322/hls/movie.m3u8
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/3902/20230202110541bDdN.jpg",Kung Fu Yoga โยคะสู้ฟัด (2017)
+https://movie.server-cdn-streaming.com/api/uploads/movie/3902/video/9913/hls/movie.m3u8
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4417/20230725102202ugjn.jpg",Kung Fu League ยิปมัน ตะบัน บรูซลี บี้หวงเฟยหง (2018)
+https://movie.server-cdn-streaming.com/api/uploads/movie/4417/video/12953/hls/movie.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/201905152030115.jpg",The Knight of Shadows: Between Yin and Yang โคตรพยัคฆ์หยินหยาง (2019)
 https://m1free.inwstream.com:1936/movie3/The_Knight_of_Shadows_Between_Yin_and_Yang_2019/The_Knight_of_Shadows_Between_Yin_and_Yang_2019_th_480p.m4v/playlist.m3u8
