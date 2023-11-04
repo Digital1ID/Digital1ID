@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E01
+https://movie.server-cdn-streaming.com/api/uploads/movie/2895/video/6384/hls/movie.m3u8
+#EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E02
+https://movie.server-cdn-streaming.com/api/uploads/movie/2895/video/6385/hls/movie.m3u8
+#EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E03
+https://movie.server-cdn-streaming.com/api/uploads/movie/2895/video/6428/hls/movie.m3u8
+#EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E04
+https://movie.server-cdn-streaming.com/api/uploads/movie/2895/video/6430/hls/movie.m3u8
+#EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E05
+https://movie.server-cdn-streaming.com/api/uploads/movie/2895/video/6466/hls/movie.m3u8
+#EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E06
+https://movie.server-cdn-streaming.com/api/uploads/movie/2895/video/6469/hls/movie.m3u8
+
+
 #EXTINF-1 type="series" tvg-id="" tvg-name="Loki (2023) โลกิ" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2023/10/Loki-SS2.jpg" group-title="ซีรี่ย์ฝรั่ง",Loki (2023) โลกิ S02 E01
 https://www.sgcdnseriesn.xyz/view/0f292ff9-0a9d-5d81-88c3-7b1224ac02eb.m3u8
 
@@ -164,11 +178,11 @@ https://sgcdnseriesn.xyz/view/696dbbf6-20cd-5d8f-a3ae-b7d9ee0e5820.m3u8
 
 
 
-#EXTINF-1 type="series" tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ฝรั่ง",The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01
+#EXTINF-1 type="series" tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ฝรั่ง",The Continental: From the World of John Wick (2023) เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E01
 https://series-cdn.team-indy.net:8443/vod/DpcAPiF7b/video.mp4/playlist.m3u8
-#EXTINF-1 type="series" tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E02" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ฝรั่ง",The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E02
+#EXTINF-1 type="series" tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E02" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ฝรั่ง",The Continental: From the World of John Wick (2023) เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E02
 https://series-cdn.team-indy.net:8443/vod/pek3foyWuI/video.mp4/playlist.m3u8
-#EXTINF-1 type="series" tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E03" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ฝรั่ง",The Continental: From the World of John Wick (2023) – เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E03
+#EXTINF-1 type="series" tvg-id="" tvg-name="The Continental: From the World of John Wick (2023) เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E03" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695396097-7401-v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg" group-title="ซีรี่ย์ฝรั่ง",The Continental: From the World of John Wick (2023) เดอะ คอนทิเนนทัล: จากโลกของจอห์น วิค S01 E03
 https://series-cdn.team-indy.net:8443/vod/VOUXGMetO/video.mp4/playlist.m3u8
 
 #EXTINF-1 type="series" tvg-id="" tvg-name="The Rising of the Shield Hero (2023) ผู้กล้าโล่ผงาด ภาค3" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/136926l.jpg" group-title="ซีรี่ย์การ์ตูน1",The Rising of the Shield Hero (2023) ผู้กล้าโล่ผงาด ภาค3 S03 E01
