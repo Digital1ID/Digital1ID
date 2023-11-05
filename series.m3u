@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF-1 type="series" tvg-id="" tvg-name="One Piece (2023) วันพีช ซีซั่น 20" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece (2023) วันพีช ซีซั่น 20 S20 E064
+https://agr3.short.gy/series/OnePieceS20E1064.mp4
+
 #EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="https://img.monomax.me/unsafe/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/products/104166_nieRQTrbL3rX6W0xPRZG.jpg" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E01
 https://2i7.short.gy/series/Monstrous-S01E01
 #EXTINF-1 type="series" tvg-id="" tvg-name="Monstrous (2022) ผีซ่อนพระ" tvg-logo="https://img.monomax.me/unsafe/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/products/104166_nieRQTrbL3rX6W0xPRZG.jpg" group-title="ซีรี่ย์ เกาหลี",Monstrous (2022) ผีซ่อนพระ | พากย์ไทย S01 E02
@@ -29,9 +32,6 @@ https://master2.mesifldd.xyz/PlayList/652f5ee292b6b8C6/master.m3u8
 #EXTINF-1 type="series" tvg-id="" tvg-name="Confess Your Love (2023) บอกรักก่อนได้ไหม | พากย์ไทย" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHY37tzY6v0H2T5BFm6K7r1XuCl.jpg" group-title=" ซีรี่ย์จีน1",Confess Your Love (2023) บอกรักก่อนได้ไหม | พากย์ไทย S01 E02
 #EXTVLCOPT:http-referrer=https://movie2uhd.com/
 https://master2.mesifldd.xyz/PlayList/652f5ee1457075ar/master.m3u8
-
-#EXTINF-1 type="series" tvg-id="" tvg-name="One Piece (2023) วันพีช ซีซั่น 20" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece (2023) วันพีช ซีซั่น 20 S20 E064
-https://agr3.short.gy/series/OnePieceS20E1064.mp4
 
 #EXTINF-1 type="series" tvg-id="" tvg-name="Gen V (2023) S01 E02" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2023/09/Gen-V-2023-220x300-c-default.jpg" group-title="ซีรี่ย์ฝรั่ง",Gen V (2023) S01 E02
 https://sgcdnseriesn.xyz/view/8aebbb57-828e-5a67-9c19-f2d27e7c7ae2.m3u8
@@ -2842,7 +2842,8 @@ https://files.akuma-player.xyz/view/6fa2e71f-2aa7-5dbd-bc75-1813675334b6.m3u8
 https://files.akuma-player.xyz/view/f501c34c-5cd6-5183-991a-9130accb00a2.m3u8
 #EXTINF-1 type="series" tvg-id="1081" tvg-name="One Piece (2023) วันพีช ซีซั่น 20" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece (2023) วันพีช ซีซั่น 20 S20 E081
 https://files.akuma-player.xyz/view/e80711d2-f520-52d5-97e8-6928d4e54473.m3u8
-
+#EXTINF-1 type="series" tvg-id="1082" tvg-name="One Piece (2023) วันพีช ซีซั่น 20" tvg-logo="https://anime-nani.net/wp-content/uploads/2023/09/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A.jpg.webp" group-title="ซีรี่ย์การ์ตูน1",One Piece (2023) วันพีช ซีซั่น 20 S20 E082
+https://files.akuma-player.xyz/view/e9804022-71f5-5ba9-8c4d-7ed2b47fe851.m3u8
 
 
 #EXTINF-1 type="series" tvg-id="" tvg-name="Attack on Titan (2019) ผ่าพิภพไททัน S03 E01" tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/Attack-on-Titan.jpg" group-title="ซีรี่ย์การ์ตูน1",Attack on Titan (2019) ผ่าพิภพไททัน S03 E01
