@@ -2,6 +2,10 @@
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="",
 
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://movie2uhd.com/wp-content/uploads/2023/08/The-Marvels-1.webp",The Marvels เดอะ มาร์เวลส์ (2023)
+https://vd361.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1699950924237&srcIp=182.232.18.7&srcAg=CHROME_ANDROID&ms=45.136.21.76&type=2&sig=R3A8lJxzZxs&ct=8&urls=45.136.20.72&clientType=0&zs=43&id=5570664729336
+
 #EXTINF:-1 type="movie" tvg-id="" group-title="ซูมโรง ชนโรง" tvg-logo="https://img.inwiptv.net/postor/20231110234133csacsacascsa.jpg",The Marvels เดอะ มาร์เวลส์ (2023)
 https://m1free.inwstream.com:1936/movie3/The_Marvels_2023/The_Marvels_2023_thr_v1.mp4/playlist.m3u8
 
