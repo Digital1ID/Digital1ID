@@ -1613,35 +1613,3 @@ https://m1free.inwstream.com:1936/movie2/X-Men-1-4-2000-2009/X-Men-1-2000-th-108
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="จักรวาล MARVEL" tvg-logo="",
 
-
-################################################
-
-#EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" tvg-id="MiamiTVMexico.us" group-title="Adult",Miami TV México (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s38944_h15_aa.png" group-title="Adult",PlayBoy TV en Español
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-http://xcui.10initiatived.uk:8880/live/DQ-NOVO500/ziqDdRRQ6c/36022.ts|Referer="http://xcui.10initiatived.uk/"
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s38944_h15_aa.png" group-title="Adult",PlayBoy TV en Español
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s38944_h15_aa.png" group-title="Adult",PlayBoy TV en Español
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:c6:a1&stream=201014&extension=m3u8|Referer="https://mol-2.com/"
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcQhG7IxawnKPsn1eztjJ6cDSHpEir5VI5HlAA&usqp=CAU" group-title="Adult",PlayBoy TV Europe
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:c6:a1&stream=201015&extension=m3u8|Referer="https://mol-2.com/"
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcSbOj_tZ0aCl4wN80Ai0ioUGe4kNnf9VYCX0Q&usqp=CAU" group-title="Adult",Bz TV Europe
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:c6:a1&stream=201032&extension=m3u8|Referer="https://mol-2.com/"
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcRS1J_hxVOrhw6ihTkG2wMKQ1_HqlDGNuPd0Q&usqp=CAU" group-title="Adult",Bz TV Europe
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:c3:c6:a1&stream=201033&extension=m3u8|Referer="https://mol-2.com/"
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcRwb_u7BxTifC0xF3AGw5RHsCGotXT0lyXOKw&usqp=CAU" group-title="Adult",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
