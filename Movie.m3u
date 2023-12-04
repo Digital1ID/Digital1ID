@@ -162,9 +162,6 @@ https://play.kakjeawplay.xyz/90cab095-3365-497c-a0a3-e44ec9d5dfdc/0
 #EXTINF:-1 type="movie" tvg-id="" group-title="หนังใหม่ มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231010000702mYD7rtnL2s8zkZ9Vuc2HvHrlFsQ.jpg",The Nun 2 เดอะ นัน 2
 https://m1free.inwstream.com:1936/movie3/The_Nun_2_2023/The_Nun_2_2023_th_1080_2.mp4?.m3u8
 
-#EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20231010001228oupWWrVuCgNEa5GcjdkpjCYbx2X.jpg",Teenage Mutant Ninja Turtles: Mutant Mayhem เต่านินจา: โกลาหลกลายพันธุ์ (2023)
-https://m1free.inwstream.com:1936/movie3/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023_th_1080_2.mp4?.m3u8
-
 #EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2022/08/Prey-2022-265x375.jpg",Prey (2022) เพรย์ บรรยายไทย
 https://play.kakjeawplay.xyz/807ff2d5-93c8-4817-a3c7-451306c42284/0
 
@@ -567,8 +564,15 @@ https://2i7.short.gy/movie/Fury.mp4
 #EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20170328161144Not.Another.Teen.Movie.2001.poster.jpg",Not Another Teen Movie ไม่ไหวแล้ว หนังหยองๆ หวีดๆ (2001)
 https://m1free.inwstream.com:1936/movie1/Not-Another-Teen-Movie-2001/Not-Another-Teen-Movie-2001-TH-1080p.mp4/playlist.m3u8
 
+#EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2019/12/Hot-Shots-1992.jpg",HOT SHOTS! 2 PART DEUX (1993) ฮ็อตช็อต 2 เสืออากาศจิตป่วน ตอน นักรบแรมเบอะสมองเลอะ
+https://play.kakjeawplay.xyz/aa795e2b-17fe-4c2c-961c-e7afdfcb06e1/_
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2019/12/Hot-Shots-1991.jpg",HOT SHOTS! (1991) ฮ็อตช็อต เสืออากาศจิตป่วน
+https://play.kakjeawplay.xyz/bb8fefe1-e7ee-47ce-a083-9ece7181cae4/_
+
 #EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200923075059dune-545ac3337ceca.jpg",Dune ดูน สงครามล้างเผ่าพันธุ์จักรวาล (1984)
 https://m1free.inwstream.com:1936/movie3/Dune_1984/Dune_1984_TH_Extended_1080p.mp4?.m3u8
+
 
 
 
@@ -1112,6 +1116,9 @@ https://2i7.short.gy/movie/28-Days-Later-2002-TH-1080p.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="",
 
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20231010001228oupWWrVuCgNEa5GcjdkpjCYbx2X.jpg",Teenage Mutant Ninja Turtles: Mutant Mayhem เต่านินจา: โกลาหลกลายพันธุ์ (2023)
+https://m1free.inwstream.com:1936/movie3/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023_th_1080_2.mp4?.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20211224081857encanto-61c1f1f978f33.jpg",Encanto เมืองเวทมนตร์คนมหัศจรรย์ (2021)
 https://m1free.inwstream.com:1936/movie3/Encanto_2021/Encanto_2021_th_1080p_F.mp4/playlist.m3u8
