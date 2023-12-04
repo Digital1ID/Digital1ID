@@ -340,6 +340,9 @@ https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fur
 #EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="",
 
 
+#EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20200907092044mulan-5df23050b1b04.jpg",Mulan มู่หลาน (2020)
+https://m1free.inwstream.com:1936/movie3/Mulan_2020/Mulan_2020_th_1080p_FW.mp4/playlist.m3u8
+
 #EXTINF:-1 type="movie" tvg-id="" group-title="มาสเตอร์" tvg-logo="https://img.inwiptv.net/postor/20231129205830kziBJGQFo9f0Vkj9s37qI0G9I0I.jpg",Fire with Fire คนอึดล้างเพลิงนรก (2012)
 https://m1free.inwstream.com:1936/movie3/Fire_with_Fire_2012/Fire_with_Fire_2012_th_1080.mp4/playlist.m3u8
 
@@ -648,6 +651,9 @@ https://m1free.inwstream.com:1936/movie3/Tin_And_Tina_2023/Tin_And_Tina_2023_th_
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="",
 
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://img.inwiptv.net/postor/20221017205458gKALfss0T3MpMIphK41FIS16865.jpg",Mulan: Rise of a Warrior มู่หลาน วีรสตรีโลกจารึก (2009)
+https://m1free.inwstream.com:1936/movie3/Mulan_Rise_of_a_Warrior_2009/Mulan_Rise_of_a_Warrior_2009_th_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="หนังเอเชีย" tvg-logo="https://encrypted-tbn0.gstatic.com/images.jpg?q=tbn:ANd9GcRFDZucHV605Uglr4kssHCJX-sSlSn4VRYS_w&usqp=CAU",Sakra แปดเทพอสูรมังกรฟ้า เฉียวฟง จอมยุทธไร้พ่าย (2023)
 https://movie.server-cdn-streaming.com/api/uploads/movie/4476/video/13322/hls/movie.m3u8
@@ -1105,6 +1111,13 @@ https://2i7.short.gy/movie/28-Days-Later-2002-TH-1080p.m3u8
 
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="",
+
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20190708125357mulan-ii-5504333997f89.jpg",Mulan II มู่หลาน 2 ตอน เจ้าหญิงสามพระองค์ (2004)
+https://m1free.inwstream.com:1936/movie3/Mulan_II_2004/Mulan_II_2004_TH_1080p.m4v/playlist.m3u8
+
+#EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20190708125940mulan-56baced4d39d9.jpg",Mulan มู่หลาน (1998)
+https://m1free.inwstream.com:1936/movie3/Mulan_1998/Mulan_1998_TH_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" group-title="ANIME" tvg-logo="https://img.inwiptv.net/postor/20231116220709hr8ZtwdbtjBquxlTCrczr685K5T.jpg",Once Upon a Studio (2023) | บรรยายไทย
 https://m1free.inwstream.com:1936/movie3/Once_Upon_a_Studio_2023/Once_Upon_a_Studio_2023_st_1080.mp4/playlist.m3u8
